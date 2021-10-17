@@ -1,0 +1,9 @@
+Sorted container = 
+Container contains 7 elements.
+0: It is Tetrahedron: density = 42.6445, Edge = 2. Area = 6.9282
+1: It is Tetrahedron: density = 6.03195, Edge = 14. Area = 339.482
+2: It is Parallelepiped: density = 12.9091, A = 18, B = 56, C = 43. Area = 8380
+3: It is Tetrahedron: density = 39.6009, Edge = 84. Area = 12221.4
+4: It is Parallelepiped: density = 7.22617, A = 23, B = 39, C = 88. Area = 12706
+5: It is Parallelepiped: density = 3.80984, A = 92, B = 9, C = 60. Area = 13776
+6: It is Parallelepiped: density = 11.0177, A = 83, B = 100, C = 11. Area = 20626

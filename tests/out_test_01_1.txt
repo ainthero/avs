@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+0: It is Sphere: density = 2.04, radius = 10. Area = 1256.64
+1: It is Parallelepiped: density = 3.43, A = 3, B = 4, C = 5. Area = 94
+2: It is Tetrahedron: density = 4.345, Edge = 45. Area = 3507.4
+3: It is Tetrahedron: density = 54.3454, Edge = 34. Area = 2002.25
+4: It is Parallelepiped: density = 12.2345, A = 6, B = 3, C = 4. Area = 108
+5: It is Sphere: density = 4.02, radius = 17. Area = 3631.68
