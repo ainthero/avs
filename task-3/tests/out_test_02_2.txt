@@ -1,0 +1,21 @@
+Container is store 20 shapes:
+Tetrahedron: density = 17.566456621128065, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 20.752088771617146, a = 55, Area = 5239.453692895853
+Tetrahedron: density = 12.541071401665793, a = 64, Area = 7094.480107802121
+Tetrahedron: density = 33.87521700038697, a = 66, Area = 7544.813317770028
+Tetrahedron: density = 16.37303536334674, a = 76, Area = 10004.325464517835
+Parallelepiped: density = 3.0637574897950834, a = 58,  b = 15,  c = 67, Area = 11522
+Sphere: density8.85033074958567, radius = 31, Area = 12076.28216039996
+Tetrahedron: density = 26.251953536028267, a = 86, Area = 12810.247772779416
+Parallelepiped: density = 40.682269757109175, a = 95,  b = 15,  c = 46, Area = 12970
+Parallelepiped: density = 20.225651150921617, a = 11,  b = 69,  c = 80, Area = 14318
+Parallelepiped: density = 20.108603098713367, a = 39,  b = 99,  c = 44, Area = 19866
+Parallelepiped: density = 5.11377150470688, a = 76,  b = 71,  c = 52, Area = 26080
+Parallelepiped: density = 47.67472980915102, a = 91,  b = 89,  c = 31, Area = 27358
+Sphere: density11.30382752896439, radius = 47, Area = 27759.11268712124
+Sphere: density41.98032506917966, radius = 62, Area = 48305.12864159984
+Parallelepiped: density = 48.407936976171825, a = 92,  b = 92,  c = 86, Area = 48576
+Sphere: density43.18805449495299, radius = 74, Area = 68813.44548423536
+Sphere: density40.80999295841052, radius = 84, Area = 88668.31105492417
+Sphere: density32.65141521910219, radius = 93, Area = 108686.53944359964
+Sphere: density42.01645904219477, radius = 96, Area = 115811.67158194177

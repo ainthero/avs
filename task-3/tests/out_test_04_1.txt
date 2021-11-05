@@ -1,0 +1,11 @@
+Container is store 10 shapes:
+Sphere: density34.01400093748519, radius = 47, Area = 27759.11268712124
+Sphere: density30.238660291682205, radius = 18, Area = 4071.50407905264
+Sphere: density16.470198943942705, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 37.427285139357906, a = 24,  b = 48,  c = 21, Area = 5328
+Parallelepiped: density = 44.72341248328242, a = 62,  b = 45,  c = 2, Area = 6008
+Sphere: density14.546034417978174, radius = 40, Area = 20106.192982975997
+Sphere: density26.069409181623048, radius = 77, Area = 74506.01137254045
+Parallelepiped: density = 36.605082386876184, a = 34,  b = 46,  c = 9, Area = 4568
+Parallelepiped: density = 44.98347558065509, a = 27,  b = 95,  c = 22, Area = 10498
+Parallelepiped: density = 24.605644128101964, a = 33,  b = 16,  c = 46, Area = 5564

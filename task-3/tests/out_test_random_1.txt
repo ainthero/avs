@@ -1,0 +1,1001 @@
+Container is store 1000 shapes:
+Parallelepiped: density = 14.34299112381715, a = 6,  b = 19,  c = 2, Area = 328
+Parallelepiped: density = 17.524203458267717, a = 19,  b = 7,  c = 1, Area = 318
+Parallelepiped: density = 17.037271437883987, a = 8,  b = 9,  c = 5, Area = 314
+Parallelepiped: density = 0.2754520143073025, a = 19,  b = 19,  c = 3, Area = 950
+Parallelepiped: density = 8.14196810912712, a = 18,  b = 11,  c = 12, Area = 1092
+Tetrahedron: density = 18.204076451972625, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 2.936081808028579, a = 14,  b = 19,  c = 20, Area = 1852
+Sphere: density11.103415107661254, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 1.6673935049386035, a = 3, Area = 15.588457268119896
+Sphere: density5.150015071571841, radius = 8, Area = 804.24771931904
+Sphere: density13.245141327002887, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 6.950308639146456, a = 17,  b = 2,  c = 4, Area = 220
+Sphere: density18.574111914431725, radius = 10, Area = 1256.6370614359998
+Parallelepiped: density = 7.226105152790807, a = 15,  b = 10,  c = 3, Area = 450
+Parallelepiped: density = 6.989021349066434, a = 16,  b = 16,  c = 9, Area = 1088
+Tetrahedron: density = 11.855388594663976, a = 12, Area = 249.41531628991834
+Sphere: density16.965402127876402, radius = 9, Area = 1017.87601976316
+Sphere: density4.8121043347367, radius = 5, Area = 314.15926535899996
+Tetrahedron: density = 0.18732515088373258, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 3.713285552531178, a = 13,  b = 16,  c = 14, Area = 1228
+Sphere: density16.247656194855367, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 8.70358526675178, a = 2, Area = 6.928203230275509
+Tetrahedron: density = 4.074425063499172, a = 13, Area = 292.71658647914023
+Sphere: density13.390928671784629, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 4.1103138375997545, a = 4, Area = 27.712812921102035
+Sphere: density18.210250506161234, radius = 15, Area = 2827.4333882309998
+Sphere: density11.732105447767234, radius = 18, Area = 4071.50407905264
+Sphere: density19.804480331511854, radius = 17, Area = 3631.6811075500405
+Sphere: density0.10170384998203552, radius = 9, Area = 1017.87601976316
+Sphere: density16.845271366834844, radius = 7, Area = 615.75216010364
+Parallelepiped: density = 15.70795257776857, a = 4,  b = 10,  c = 14, Area = 472
+Parallelepiped: density = 1.2785895241509793, a = 13,  b = 9,  c = 12, Area = 762
+Parallelepiped: density = 1.268074862315518, a = 2,  b = 16,  c = 4, Area = 208
+Tetrahedron: density = 11.355007325470705, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 0.9071011341843005, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 18.79596919022527, a = 13,  b = 18,  c = 7, Area = 902
+Parallelepiped: density = 17.454591745549987, a = 18,  b = 19,  c = 10, Area = 1424
+Parallelepiped: density = 4.850820682383123, a = 3,  b = 11,  c = 20, Area = 626
+Parallelepiped: density = 2.4042160386733813, a = 7,  b = 1,  c = 20, Area = 334
+Tetrahedron: density = 11.766541633072373, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 0.08123125400194109, a = 13, Area = 292.71658647914023
+Sphere: density1.3220427803796886, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 14.301917325022108, a = 14,  b = 3,  c = 17, Area = 662
+Parallelepiped: density = 12.114848621573987, a = 3,  b = 14,  c = 14, Area = 560
+Tetrahedron: density = 2.024882122914362, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 1.9178832368295295, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 16.2845603402157, a = 17,  b = 13,  c = 3, Area = 622
+Tetrahedron: density = 11.288130710147716, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 7.5036497017364105, a = 16,  b = 12,  c = 12, Area = 1056
+Parallelepiped: density = 18.08782840983096, a = 1,  b = 20,  c = 2, Area = 124
+Sphere: density8.342458171077922, radius = 13, Area = 2123.71663382684
+Parallelepiped: density = 11.142937831978038, a = 5,  b = 13,  c = 8, Area = 418
+Tetrahedron: density = 16.160647429207742, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 7.2599693471416815, a = 12,  b = 5,  c = 14, Area = 596
+Parallelepiped: density = 14.283182502358729, a = 4,  b = 15,  c = 11, Area = 538
+Sphere: density16.186231278262994, radius = 15, Area = 2827.4333882309998
+Sphere: density6.632228798259902, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 6.869816636521695, a = 9,  b = 11,  c = 6, Area = 438
+Sphere: density11.671071842709676, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 3.4287183941178956, a = 9,  b = 19,  c = 12, Area = 1014
+Parallelepiped: density = 2.8154388949889064, a = 14,  b = 16,  c = 3, Area = 628
+Sphere: density5.581625711879939, radius = 4, Area = 201.06192982976
+Sphere: density7.356291788518767, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 6.725842393323587, a = 8,  b = 6,  c = 4, Area = 208
+Parallelepiped: density = 7.468349083568658, a = 11,  b = 7,  c = 3, Area = 262
+Sphere: density19.661705561517987, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 19.680267977267146, a = 16,  b = 15,  c = 13, Area = 1286
+Sphere: density8.19728345552667, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 18.67836245036061, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 17.471393761056532, a = 15,  b = 8,  c = 18, Area = 1068
+Sphere: density8.055633364223453, radius = 18, Area = 4071.50407905264
+Sphere: density1.7869106645108745, radius = 11, Area = 1520.53084433756
+Sphere: density6.208627333196981, radius = 14, Area = 2463.00864041456
+Parallelepiped: density = 19.50087353391986, a = 14,  b = 7,  c = 11, Area = 658
+Sphere: density2.678202007601591, radius = 3, Area = 113.09733552924001
+Sphere: density15.689749021389623, radius = 2, Area = 50.26548245744
+Sphere: density10.600066237415858, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 11.166471396969197, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 19.26460211017543, a = 14,  b = 4,  c = 1, Area = 148
+Tetrahedron: density = 14.389756394417816, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 19.00929941838896, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 7.197593055624543, a = 20,  b = 14,  c = 6, Area = 968
+Sphere: density9.053737370215815, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 4.347739218340809, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 1.239606383707088, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 5.216552872920834, a = 5, Area = 43.301270189221924
+Tetrahedron: density = 6.448678415454867, a = 1, Area = 1.7320508075688772
+Sphere: density5.482725439701966, radius = 1, Area = 12.56637061436
+Sphere: density3.6524610391395718, radius = 8, Area = 804.24771931904
+Sphere: density14.803358805283231, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 15.261268904962737, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 11.137051731472063, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 9.909517266736273, a = 12, Area = 249.41531628991834
+Parallelepiped: density = 8.75873165680477, a = 19,  b = 1,  c = 3, Area = 158
+Tetrahedron: density = 19.064580807531225, a = 10, Area = 173.2050807568877
+Sphere: density3.9293969871814105, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 13.059698318304607, a = 3, Area = 15.588457268119896
+Sphere: density10.974199714691943, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 0.21995197107351983, a = 5, Area = 43.301270189221924
+Tetrahedron: density = 8.674013518239951, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 17.09919819229622, a = 18,  b = 14,  c = 4, Area = 760
+Parallelepiped: density = 19.54859143243023, a = 19,  b = 2,  c = 9, Area = 454
+Tetrahedron: density = 1.3404846975819606, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 1.8871058902356408, a = 15, Area = 389.71143170299734
+Sphere: density3.4391963490234057, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 9.456299159082944, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 15.683197960320252, a = 9,  b = 3,  c = 15, Area = 414
+Parallelepiped: density = 2.212752742503028, a = 7,  b = 14,  c = 9, Area = 574
+Tetrahedron: density = 3.6071867961537873, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 16.35817416332428, a = 1,  b = 12,  c = 20, Area = 544
+Sphere: density14.34412098378084, radius = 15, Area = 2827.4333882309998
+Parallelepiped: density = 15.75253113651075, a = 8,  b = 19,  c = 7, Area = 682
+Tetrahedron: density = 12.916142959814199, a = 10, Area = 173.2050807568877
+Sphere: density18.351924246391313, radius = 13, Area = 2123.71663382684
+Sphere: density17.46882064218417, radius = 19, Area = 4536.45979178396
+Parallelepiped: density = 14.238222629068794, a = 20,  b = 12,  c = 1, Area = 544
+Tetrahedron: density = 14.400176512521728, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 17.96100923239877, a = 16,  b = 9,  c = 20, Area = 1288
+Sphere: density7.208334928298288, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 16.686413949561636, a = 5, Area = 43.301270189221924
+Sphere: density17.800527062190387, radius = 4, Area = 201.06192982976
+Sphere: density1.4959843634524583, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 18.141402005065768, a = 4, Area = 27.712812921102035
+Sphere: density14.246278616232129, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 14.024370249041686, a = 11,  b = 7,  c = 1, Area = 190
+Parallelepiped: density = 18.052812423832815, a = 11,  b = 8,  c = 19, Area = 898
+Tetrahedron: density = 18.16381122090256, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 7.49198652427096, a = 10,  b = 20,  c = 18, Area = 1480
+Parallelepiped: density = 12.191303630787056, a = 4,  b = 12,  c = 19, Area = 704
+Tetrahedron: density = 14.985796200003458, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 1.2546177612373244, a = 18,  b = 15,  c = 6, Area = 936
+Tetrahedron: density = 8.928119058596982, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 3.6479228060275415, a = 15,  b = 14,  c = 15, Area = 1290
+Sphere: density6.824648117992787, radius = 14, Area = 2463.00864041456
+Sphere: density11.079067628991584, radius = 1, Area = 12.56637061436
+Sphere: density11.930900997861109, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 6.524838968535485, a = 4,  b = 16,  c = 5, Area = 328
+Sphere: density7.302279928165469, radius = 7, Area = 615.75216010364
+Sphere: density18.125248146984237, radius = 10, Area = 1256.6370614359998
+Sphere: density9.264260275583599, radius = 10, Area = 1256.6370614359998
+Sphere: density5.61455775928231, radius = 4, Area = 201.06192982976
+Sphere: density12.19449460628665, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 2.2883289726804, a = 1,  b = 13,  c = 4, Area = 138
+Tetrahedron: density = 7.617487692666575, a = 9, Area = 140.29611541307904
+Sphere: density3.164437961680906, radius = 2, Area = 50.26548245744
+Parallelepiped: density = 14.805098403975286, a = 8,  b = 16,  c = 10, Area = 736
+Parallelepiped: density = 14.651742159823842, a = 12,  b = 2,  c = 19, Area = 580
+Sphere: density17.820370318256373, radius = 7, Area = 615.75216010364
+Tetrahedron: density = 11.847657784732533, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 7.97736852963417, a = 18, Area = 561.1844616523161
+Sphere: density18.384297405565047, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 17.92167984115292, a = 15,  b = 20,  c = 12, Area = 1440
+Tetrahedron: density = 15.945456393605067, a = 10, Area = 173.2050807568877
+Parallelepiped: density = 2.58231765826614, a = 4,  b = 4,  c = 6, Area = 128
+Sphere: density13.709274509947619, radius = 13, Area = 2123.71663382684
+Sphere: density15.103174607886565, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 15.25473422778778, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 5.3480607067010695, a = 19,  b = 16,  c = 9, Area = 1238
+Tetrahedron: density = 6.754651167052053, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 9.849113014544493, a = 12,  b = 4,  c = 11, Area = 448
+Tetrahedron: density = 2.217587616532608, a = 19, Area = 625.2703415323647
+Tetrahedron: density = 1.397514586278732, a = 2, Area = 6.928203230275509
+Tetrahedron: density = 12.556442933623872, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 15.446200073405038, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 15.14811316130497, a = 20, Area = 692.8203230275508
+Sphere: density15.812070213304075, radius = 2, Area = 50.26548245744
+Tetrahedron: density = 12.172401419930416, a = 15, Area = 389.71143170299734
+Sphere: density2.945567211981601, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 6.968821190433429, a = 12,  b = 5,  c = 2, Area = 188
+Tetrahedron: density = 7.839585853098912, a = 10, Area = 173.2050807568877
+Tetrahedron: density = 17.01187517834414, a = 9, Area = 140.29611541307904
+Sphere: density10.720665221303356, radius = 7, Area = 615.75216010364
+Parallelepiped: density = 10.396206872293662, a = 8,  b = 19,  c = 5, Area = 574
+Sphere: density0.36655064634538714, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 19.91779646722836, a = 19,  b = 13,  c = 14, Area = 1390
+Parallelepiped: density = 13.071379710192366, a = 15,  b = 5,  c = 2, Area = 230
+Tetrahedron: density = 4.658264435894437, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 8.603168592424701, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 10.814876266388001, a = 10,  b = 18,  c = 14, Area = 1144
+Parallelepiped: density = 12.285690526116152, a = 5,  b = 18,  c = 13, Area = 778
+Sphere: density19.045413025609687, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 18.093280954017125, a = 19,  b = 12,  c = 2, Area = 580
+Tetrahedron: density = 10.248284191703615, a = 12, Area = 249.41531628991834
+Tetrahedron: density = 0.21550269096069385, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 9.430275648365997, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 9.031584970974194, a = 13,  b = 11,  c = 5, Area = 526
+Sphere: density6.128546244784285, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 5.650257891843755, a = 19,  b = 14,  c = 14, Area = 1456
+Tetrahedron: density = 9.738119913614822, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 1.6927848397146694, a = 13, Area = 292.71658647914023
+Sphere: density19.33629256111566, radius = 11, Area = 1520.53084433756
+Sphere: density1.2334875233934972, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 12.856289786006453, a = 19,  b = 2,  c = 9, Area = 454
+Parallelepiped: density = 14.434981560031892, a = 7,  b = 9,  c = 17, Area = 670
+Sphere: density17.65175881123049, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 0.5876133852078236, a = 16,  b = 10,  c = 10, Area = 840
+Tetrahedron: density = 14.010059696773, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 12.730463184438172, a = 19, Area = 625.2703415323647
+Tetrahedron: density = 14.998096855043496, a = 17, Area = 500.5626833874055
+Tetrahedron: density = 10.298912719572193, a = 13, Area = 292.71658647914023
+Sphere: density12.547790877940482, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 2.3977005332864265, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 16.45634362698772, a = 19,  b = 8,  c = 20, Area = 1384
+Sphere: density14.24864599413597, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 1.8948705216766615, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 13.773008311380611, a = 16,  b = 6,  c = 10, Area = 632
+Parallelepiped: density = 2.408285601360982, a = 11,  b = 20,  c = 3, Area = 626
+Sphere: density3.085718306654328, radius = 17, Area = 3631.6811075500405
+Parallelepiped: density = 12.41067793358447, a = 17,  b = 16,  c = 9, Area = 1138
+Sphere: density16.16140432447478, radius = 15, Area = 2827.4333882309998
+Tetrahedron: density = 17.880318350689123, a = 12, Area = 249.41531628991834
+Sphere: density16.995063574208142, radius = 14, Area = 2463.00864041456
+Parallelepiped: density = 8.690695129797263, a = 7,  b = 20,  c = 14, Area = 1036
+Parallelepiped: density = 1.7064481037975865, a = 3,  b = 3,  c = 19, Area = 246
+Tetrahedron: density = 13.43255065298374, a = 16, Area = 443.40500673763256
+Tetrahedron: density = 7.509173215240345, a = 7, Area = 84.87048957087498
+Sphere: density0.37226661739632183, radius = 18, Area = 4071.50407905264
+Sphere: density6.476185008299698, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 12.42908742453549, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 18.747301577898515, a = 4,  b = 6,  c = 5, Area = 148
+Parallelepiped: density = 4.808680948560955, a = 8,  b = 20,  c = 2, Area = 432
+Parallelepiped: density = 5.0801920774456555, a = 2,  b = 10,  c = 9, Area = 256
+Sphere: density18.479970297608183, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 14.999336647509363, a = 7, Area = 84.87048957087498
+Sphere: density18.432674486686075, radius = 12, Area = 1809.5573684678402
+Sphere: density16.721052374197342, radius = 16, Area = 3216.99087727616
+Sphere: density12.571073646933959, radius = 8, Area = 804.24771931904
+Tetrahedron: density = 3.485082462430771, a = 20, Area = 692.8203230275508
+Sphere: density10.760026132574493, radius = 18, Area = 4071.50407905264
+Sphere: density16.529820883357292, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 18.314943110008702, a = 9,  b = 3,  c = 10, Area = 294
+Parallelepiped: density = 18.6851125913624, a = 4,  b = 5,  c = 3, Area = 94
+Parallelepiped: density = 1.4377987632323785, a = 10,  b = 18,  c = 1, Area = 416
+Parallelepiped: density = 18.041594202895602, a = 9,  b = 8,  c = 5, Area = 314
+Parallelepiped: density = 14.364010473977245, a = 13,  b = 5,  c = 6, Area = 346
+Parallelepiped: density = 6.11675579122976, a = 19,  b = 16,  c = 6, Area = 1028
+Sphere: density1.703677359360365, radius = 12, Area = 1809.5573684678402
+Sphere: density9.548594730390832, radius = 19, Area = 4536.45979178396
+Parallelepiped: density = 15.562681825193835, a = 18,  b = 1,  c = 18, Area = 720
+Sphere: density5.084100074772446, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 3.62734708004959, a = 12,  b = 11,  c = 17, Area = 1046
+Parallelepiped: density = 19.629472977149113, a = 16,  b = 2,  c = 9, Area = 388
+Parallelepiped: density = 9.975828526673435, a = 11,  b = 16,  c = 1, Area = 406
+Parallelepiped: density = 1.364362313191232, a = 11,  b = 12,  c = 13, Area = 862
+Sphere: density14.708048029880615, radius = 13, Area = 2123.71663382684
+Parallelepiped: density = 1.9663882908108965, a = 2,  b = 19,  c = 9, Area = 454
+Tetrahedron: density = 4.57786225711402, a = 1, Area = 1.7320508075688772
+Sphere: density7.90356497011974, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 10.402533524425984, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 16.13274627622667, a = 14,  b = 18,  c = 18, Area = 1656
+Sphere: density3.4074146034416075, radius = 15, Area = 2827.4333882309998
+Parallelepiped: density = 2.3261498218040644, a = 16,  b = 7,  c = 19, Area = 1098
+Parallelepiped: density = 5.596979018930566, a = 1,  b = 12,  c = 8, Area = 232
+Sphere: density2.622090431134556, radius = 5, Area = 314.15926535899996
+Sphere: density18.434433989858285, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 10.136665652458243, a = 1,  b = 10,  c = 4, Area = 108
+Tetrahedron: density = 15.626933128361063, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 1.9656138277047508, a = 18,  b = 8,  c = 6, Area = 600
+Parallelepiped: density = 12.536993757188739, a = 4,  b = 4,  c = 2, Area = 64
+Sphere: density1.9339279447253577, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 7.2004494177097484, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 19.387258706952736, a = 9,  b = 9,  c = 14, Area = 666
+Sphere: density18.924933635243196, radius = 5, Area = 314.15926535899996
+Tetrahedron: density = 1.8567067905521317, a = 9, Area = 140.29611541307904
+Tetrahedron: density = 13.791942073445092, a = 3, Area = 15.588457268119896
+Parallelepiped: density = 16.56619821109704, a = 17,  b = 2,  c = 11, Area = 486
+Parallelepiped: density = 1.8952585248819687, a = 15,  b = 17,  c = 9, Area = 1086
+Sphere: density2.8396469488328746, radius = 11, Area = 1520.53084433756
+Tetrahedron: density = 15.086538106695402, a = 1, Area = 1.7320508075688772
+Sphere: density7.132332386531881, radius = 10, Area = 1256.6370614359998
+Sphere: density16.668418247564823, radius = 13, Area = 2123.71663382684
+Parallelepiped: density = 7.400874584862023, a = 5,  b = 10,  c = 11, Area = 430
+Tetrahedron: density = 5.723132586188644, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 0.841898269610597, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 5.684537050688783, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 15.909698564567476, a = 14, Area = 339.4819582834999
+Sphere: density8.797546379847569, radius = 20, Area = 5026.548245743999
+Sphere: density2.735767997972658, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 17.239961319061646, a = 20,  b = 4,  c = 14, Area = 832
+Parallelepiped: density = 10.059946532917927, a = 10,  b = 6,  c = 15, Area = 600
+Sphere: density9.536784752618566, radius = 19, Area = 4536.45979178396
+Parallelepiped: density = 18.660553326705575, a = 5,  b = 3,  c = 4, Area = 94
+Tetrahedron: density = 5.863862383228502, a = 13, Area = 292.71658647914023
+Tetrahedron: density = 16.126431161179916, a = 15, Area = 389.71143170299734
+Sphere: density11.951938201443086, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 5.760040773584758, a = 14,  b = 1,  c = 7, Area = 238
+Sphere: density7.337993194307597, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 13.230128872151747, a = 18,  b = 16,  c = 7, Area = 1052
+Parallelepiped: density = 9.696146171684978, a = 7,  b = 5,  c = 8, Area = 262
+Tetrahedron: density = 18.474627530592922, a = 11, Area = 209.57814771583415
+Sphere: density10.235245620935627, radius = 2, Area = 50.26548245744
+Tetrahedron: density = 4.402840418576406, a = 20, Area = 692.8203230275508
+Tetrahedron: density = 19.716199452004204, a = 9, Area = 140.29611541307904
+Sphere: density15.472695252373503, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 9.141091978318467, a = 11,  b = 16,  c = 1, Area = 406
+Tetrahedron: density = 9.8335038011653, a = 8, Area = 110.85125168440814
+Sphere: density7.0007264034258165, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 10.284918803508702, a = 18,  b = 4,  c = 13, Area = 716
+Tetrahedron: density = 9.989160000797291, a = 2, Area = 6.928203230275509
+Parallelepiped: density = 5.717285206522911, a = 13,  b = 18,  c = 9, Area = 1026
+Tetrahedron: density = 18.909833976728116, a = 9, Area = 140.29611541307904
+Parallelepiped: density = 6.055528572039299, a = 4,  b = 1,  c = 5, Area = 58
+Parallelepiped: density = 12.170841305264545, a = 17,  b = 3,  c = 8, Area = 422
+Tetrahedron: density = 12.083176617565712, a = 5, Area = 43.301270189221924
+Parallelepiped: density = 13.315491898991258, a = 5,  b = 16,  c = 8, Area = 496
+Tetrahedron: density = 10.535316498661402, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 9.445488156555976, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 9.377388335842651, a = 13,  b = 20,  c = 1, Area = 586
+Sphere: density13.095944834779461, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 15.275129320646002, a = 17,  b = 13,  c = 19, Area = 1582
+Tetrahedron: density = 6.551422044493707, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 14.250108661512273, a = 10,  b = 16,  c = 6, Area = 632
+Parallelepiped: density = 8.100849519488378, a = 1,  b = 13,  c = 4, Area = 138
+Tetrahedron: density = 11.705267713531457, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 10.154604400234117, a = 11,  b = 20,  c = 7, Area = 874
+Parallelepiped: density = 0.6342774617991709, a = 13,  b = 10,  c = 16, Area = 996
+Parallelepiped: density = 18.43148510966659, a = 13,  b = 20,  c = 9, Area = 1114
+Sphere: density7.234305905544747, radius = 20, Area = 5026.548245743999
+Parallelepiped: density = 9.151719828107698, a = 10,  b = 17,  c = 13, Area = 1042
+Tetrahedron: density = 14.98181150954749, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 0.1761435304133152, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 2.0751955917246367, a = 16,  b = 15,  c = 2, Area = 604
+Sphere: density14.166445255511986, radius = 4, Area = 201.06192982976
+Parallelepiped: density = 3.9810797681470933, a = 8,  b = 18,  c = 19, Area = 1276
+Tetrahedron: density = 5.498925507336859, a = 10, Area = 173.2050807568877
+Parallelepiped: density = 3.0002329439374553, a = 6,  b = 8,  c = 14, Area = 488
+Sphere: density10.06877062915068, radius = 16, Area = 3216.99087727616
+Sphere: density17.39865527010391, radius = 9, Area = 1017.87601976316
+Sphere: density7.735012982552936, radius = 3, Area = 113.09733552924001
+Sphere: density11.935864364909355, radius = 14, Area = 2463.00864041456
+Tetrahedron: density = 11.25819903852287, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 12.348333048637521, a = 3, Area = 15.588457268119896
+Parallelepiped: density = 0.4633906616488259, a = 9,  b = 9,  c = 20, Area = 882
+Sphere: density1.2078960884328982, radius = 17, Area = 3631.6811075500405
+Sphere: density10.073473105484902, radius = 15, Area = 2827.4333882309998
+Sphere: density12.27383291854214, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 14.798354838134248, a = 4,  b = 4,  c = 14, Area = 256
+Tetrahedron: density = 8.361233887750831, a = 5, Area = 43.301270189221924
+Tetrahedron: density = 17.243451657774727, a = 6, Area = 62.353829072479584
+Sphere: density11.749066551381691, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 19.877587771208752, a = 18, Area = 561.1844616523161
+Sphere: density14.060208709701698, radius = 4, Area = 201.06192982976
+Tetrahedron: density = 10.445377999673266, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 0.19220684401719534, a = 8,  b = 12,  c = 4, Area = 352
+Sphere: density10.450004384703407, radius = 2, Area = 50.26548245744
+Parallelepiped: density = 11.075890933878538, a = 19,  b = 16,  c = 20, Area = 2008
+Sphere: density18.06246760171178, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 12.129313641066572, a = 12,  b = 12,  c = 1, Area = 336
+Sphere: density15.083024979804541, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 10.901288587221405, a = 11, Area = 209.57814771583415
+Parallelepiped: density = 1.952690274820481, a = 10,  b = 2,  c = 14, Area = 376
+Sphere: density15.268669112601714, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 13.989764628907675, a = 2, Area = 6.928203230275509
+Parallelepiped: density = 2.9550912895127968, a = 19,  b = 18,  c = 14, Area = 1720
+Sphere: density8.085497899335834, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 19.67087815170417, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 17.044916874807534, a = 16,  b = 9,  c = 14, Area = 988
+Tetrahedron: density = 19.41750677208534, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 7.7438892133523, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 13.35836188430757, a = 2,  b = 9,  c = 6, Area = 168
+Tetrahedron: density = 11.394627108735184, a = 10, Area = 173.2050807568877
+Parallelepiped: density = 2.323253870779032, a = 8,  b = 4,  c = 10, Area = 304
+Parallelepiped: density = 2.34744557754458, a = 6,  b = 3,  c = 8, Area = 180
+Tetrahedron: density = 12.65462008978047, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 14.483842992956319, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 4.434641067128576, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 4.699363105904615, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 19.747463063595525, a = 7,  b = 16,  c = 8, Area = 592
+Sphere: density7.228610514819012, radius = 2, Area = 50.26548245744
+Sphere: density11.871050022093147, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 13.273269405135405, a = 16, Area = 443.40500673763256
+Sphere: density16.718995414362123, radius = 4, Area = 201.06192982976
+Sphere: density13.728608378079405, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 15.52224781967919, a = 6, Area = 62.353829072479584
+Sphere: density13.456881842270384, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 12.625504369632205, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 9.64042612872287, a = 4,  b = 12,  c = 18, Area = 672
+Sphere: density17.651513839873935, radius = 11, Area = 1520.53084433756
+Sphere: density3.6092093063698183, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 3.3352870171669546, a = 4,  b = 12,  c = 13, Area = 512
+Sphere: density0.6284580672855777, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 8.252879670417903, a = 20,  b = 5,  c = 11, Area = 750
+Tetrahedron: density = 10.630134742392087, a = 13, Area = 292.71658647914023
+Sphere: density18.002167992729014, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 0.1597954752190911, a = 9, Area = 140.29611541307904
+Parallelepiped: density = 10.41431765434264, a = 18,  b = 17,  c = 17, Area = 1802
+Tetrahedron: density = 16.572055072738717, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 18.944416045953435, a = 12,  b = 9,  c = 17, Area = 930
+Tetrahedron: density = 2.9645404007825227, a = 10, Area = 173.2050807568877
+Sphere: density15.326128082673591, radius = 16, Area = 3216.99087727616
+Sphere: density5.561953845755618, radius = 14, Area = 2463.00864041456
+Sphere: density4.50152893033295, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 18.13445666572294, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 1.1040110753091081, a = 10,  b = 11,  c = 15, Area = 850
+Parallelepiped: density = 17.81630876495133, a = 3,  b = 4,  c = 20, Area = 304
+Sphere: density17.03638016429355, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 8.955465658239579, a = 7,  b = 11,  c = 9, Area = 478
+Parallelepiped: density = 14.118719285496859, a = 11,  b = 8,  c = 6, Area = 404
+Parallelepiped: density = 0.6292703950313583, a = 13,  b = 1,  c = 14, Area = 418
+Sphere: density2.7651922142522634, radius = 17, Area = 3631.6811075500405
+Sphere: density2.1207503983384934, radius = 2, Area = 50.26548245744
+Parallelepiped: density = 18.42922038164578, a = 15,  b = 18,  c = 4, Area = 804
+Parallelepiped: density = 10.953343012238204, a = 2,  b = 8,  c = 1, Area = 52
+Parallelepiped: density = 15.229127100809176, a = 10,  b = 15,  c = 14, Area = 1000
+Parallelepiped: density = 15.97270005194922, a = 2,  b = 11,  c = 4, Area = 148
+Parallelepiped: density = 9.103884659415636, a = 6,  b = 17,  c = 4, Area = 388
+Parallelepiped: density = 1.7466754598665424, a = 11,  b = 11,  c = 18, Area = 1034
+Parallelepiped: density = 1.6755275580924311, a = 2,  b = 11,  c = 4, Area = 148
+Sphere: density11.32229509307836, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 15.66952967786175, a = 14, Area = 339.4819582834999
+Sphere: density6.3195685264330965, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 5.945763596393587, a = 7, Area = 84.87048957087498
+Parallelepiped: density = 7.705924269538635, a = 16,  b = 10,  c = 13, Area = 996
+Parallelepiped: density = 17.61270252951644, a = 1,  b = 19,  c = 8, Area = 358
+Tetrahedron: density = 2.602871503503441, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 9.199474423680648, a = 17,  b = 13,  c = 18, Area = 1522
+Parallelepiped: density = 17.403590705915317, a = 10,  b = 19,  c = 13, Area = 1134
+Tetrahedron: density = 15.486423781415382, a = 11, Area = 209.57814771583415
+Parallelepiped: density = 0.35527048479172985, a = 10,  b = 13,  c = 17, Area = 1042
+Parallelepiped: density = 19.028940516472407, a = 15,  b = 13,  c = 20, Area = 1510
+Tetrahedron: density = 10.02314042467074, a = 14, Area = 339.4819582834999
+Sphere: density17.10920806059805, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 8.261899539859495, a = 4,  b = 1,  c = 8, Area = 88
+Sphere: density5.511978949708631, radius = 14, Area = 2463.00864041456
+Parallelepiped: density = 9.852320594965388, a = 10,  b = 6,  c = 2, Area = 184
+Parallelepiped: density = 13.629623870543448, a = 13,  b = 5,  c = 8, Area = 418
+Parallelepiped: density = 15.523289365101792, a = 2,  b = 8,  c = 6, Area = 152
+Parallelepiped: density = 16.114082205660058, a = 6,  b = 20,  c = 5, Area = 500
+Parallelepiped: density = 17.39600679385482, a = 11,  b = 20,  c = 15, Area = 1370
+Sphere: density9.654975302982647, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 10.09112483120979, a = 19,  b = 3,  c = 2, Area = 202
+Parallelepiped: density = 9.591898518082738, a = 10,  b = 2,  c = 15, Area = 400
+Sphere: density4.515653861727731, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 10.9794740700473, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 4.980537824676874, a = 1, Area = 1.7320508075688772
+Sphere: density7.458874561040316, radius = 14, Area = 2463.00864041456
+Parallelepiped: density = 10.886944187607153, a = 10,  b = 8,  c = 1, Area = 196
+Sphere: density7.635984704533532, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 17.195175097383878, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 6.590611400217288, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 9.856765248272655, a = 12,  b = 5,  c = 12, Area = 528
+Parallelepiped: density = 19.24859985299938, a = 19,  b = 8,  c = 19, Area = 1330
+Parallelepiped: density = 0.0648812893138695, a = 14,  b = 15,  c = 3, Area = 594
+Sphere: density11.47460620221307, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 12.888419262020843, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 5.851473115105392, a = 16,  b = 1,  c = 3, Area = 134
+Parallelepiped: density = 7.287195967105342, a = 16,  b = 17,  c = 3, Area = 742
+Parallelepiped: density = 14.61811675775067, a = 15,  b = 7,  c = 4, Area = 386
+Parallelepiped: density = 8.67999665292386, a = 15,  b = 9,  c = 6, Area = 558
+Sphere: density14.797432977115383, radius = 15, Area = 2827.4333882309998
+Parallelepiped: density = 5.015076818973451, a = 1,  b = 19,  c = 5, Area = 238
+Tetrahedron: density = 0.3450638758106295, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 1.3212391206415974, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 4.828508105233911, a = 15, Area = 389.71143170299734
+Tetrahedron: density = 7.3347515206558, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 11.593865683381448, a = 13,  b = 2,  c = 6, Area = 232
+Parallelepiped: density = 9.253823931491496, a = 2,  b = 3,  c = 12, Area = 132
+Sphere: density18.50987434454534, radius = 3, Area = 113.09733552924001
+Sphere: density11.543196541526445, radius = 17, Area = 3631.6811075500405
+Parallelepiped: density = 9.833685942352666, a = 10,  b = 10,  c = 11, Area = 640
+Parallelepiped: density = 14.179256786731978, a = 20,  b = 7,  c = 15, Area = 1090
+Tetrahedron: density = 0.39932144723736407, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 6.631536666083326, a = 5,  b = 5,  c = 12, Area = 290
+Sphere: density12.092912144290903, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 0.6810565350739739, a = 5,  b = 15,  c = 15, Area = 750
+Sphere: density15.211076109616359, radius = 4, Area = 201.06192982976
+Parallelepiped: density = 16.760483161328803, a = 11,  b = 13,  c = 2, Area = 382
+Sphere: density3.671896556560992, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 4.449102751325551, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 19.66667262349166, a = 20,  b = 9,  c = 7, Area = 766
+Sphere: density0.3556574677388413, radius = 10, Area = 1256.6370614359998
+Parallelepiped: density = 5.073757080160124, a = 3,  b = 13,  c = 3, Area = 174
+Tetrahedron: density = 3.2389994854166693, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 4.760518963905181, a = 17,  b = 16,  c = 1, Area = 610
+Tetrahedron: density = 10.505127969303869, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 18.700008472904884, a = 14,  b = 3,  c = 8, Area = 356
+Parallelepiped: density = 17.213138259165362, a = 5,  b = 1,  c = 1, Area = 22
+Parallelepiped: density = 15.402719680501129, a = 12,  b = 11,  c = 9, Area = 678
+Tetrahedron: density = 5.309005041212651, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 18.11532180811012, a = 2,  b = 12,  c = 12, Area = 384
+Parallelepiped: density = 14.713838813659304, a = 7,  b = 8,  c = 4, Area = 232
+Parallelepiped: density = 0.41012899736878383, a = 13,  b = 15,  c = 8, Area = 838
+Parallelepiped: density = 11.950816275270475, a = 8,  b = 4,  c = 8, Area = 256
+Sphere: density17.577610696901736, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 14.39040474203085, a = 18,  b = 8,  c = 9, Area = 756
+Tetrahedron: density = 17.086444313534944, a = 13, Area = 292.71658647914023
+Tetrahedron: density = 16.07795834187876, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 2.7057539081072868, a = 16,  b = 20,  c = 11, Area = 1432
+Tetrahedron: density = 18.420451564747754, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 18.78185201535157, a = 15,  b = 12,  c = 9, Area = 846
+Sphere: density10.006643483613164, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 15.69675553497537, a = 15, Area = 389.71143170299734
+Sphere: density3.052381362467813, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 5.331233247897815, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 0.7421272885653973, a = 8,  b = 2,  c = 2, Area = 72
+Tetrahedron: density = 16.299193103302635, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 7.101329133147358, a = 8,  b = 1,  c = 2, Area = 52
+Parallelepiped: density = 19.990596030001832, a = 16,  b = 2,  c = 12, Area = 496
+Tetrahedron: density = 11.71239957028326, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 19.361701168728256, a = 10,  b = 18,  c = 1, Area = 416
+Parallelepiped: density = 9.642952077942388, a = 16,  b = 20,  c = 18, Area = 1936
+Tetrahedron: density = 9.606630509643193, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 1.5889884766870366, a = 10,  b = 2,  c = 13, Area = 352
+Parallelepiped: density = 18.084696192916574, a = 12,  b = 20,  c = 20, Area = 1760
+Tetrahedron: density = 3.2038859893874783, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 8.164140468846155, a = 4,  b = 9,  c = 18, Area = 540
+Parallelepiped: density = 9.353845347953097, a = 2,  b = 6,  c = 16, Area = 280
+Sphere: density7.156944349747536, radius = 18, Area = 4071.50407905264
+Tetrahedron: density = 6.250215122901508, a = 10, Area = 173.2050807568877
+Parallelepiped: density = 5.932622732851643, a = 9,  b = 10,  c = 14, Area = 712
+Parallelepiped: density = 4.316285852823798, a = 10,  b = 11,  c = 11, Area = 682
+Sphere: density14.667781565301324, radius = 18, Area = 4071.50407905264
+Tetrahedron: density = 4.793975748791404, a = 16, Area = 443.40500673763256
+Sphere: density4.603937886228444, radius = 1, Area = 12.56637061436
+Sphere: density7.196915806433967, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 10.649462224167241, a = 8,  b = 1,  c = 8, Area = 160
+Tetrahedron: density = 12.085876280404833, a = 11, Area = 209.57814771583415
+Parallelepiped: density = 1.0617839540623941, a = 12,  b = 15,  c = 17, Area = 1278
+Tetrahedron: density = 1.8764638958951285, a = 12, Area = 249.41531628991834
+Sphere: density16.274196166105188, radius = 9, Area = 1017.87601976316
+Sphere: density13.861566519095465, radius = 6, Area = 452.38934211696005
+Sphere: density0.17060028470952338, radius = 1, Area = 12.56637061436
+Sphere: density16.107620312934436, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 19.246377420781517, a = 18,  b = 9,  c = 10, Area = 864
+Sphere: density13.961772965531198, radius = 7, Area = 615.75216010364
+Parallelepiped: density = 2.8918508125572595, a = 15,  b = 10,  c = 19, Area = 1250
+Tetrahedron: density = 1.7778759893991514, a = 20, Area = 692.8203230275508
+Sphere: density0.9105665323299639, radius = 15, Area = 2827.4333882309998
+Sphere: density3.0565351835138066, radius = 9, Area = 1017.87601976316
+Sphere: density16.85045429263407, radius = 18, Area = 4071.50407905264
+Sphere: density12.187673678912361, radius = 8, Area = 804.24771931904
+Tetrahedron: density = 6.594054069280137, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 16.752737066594598, a = 3,  b = 10,  c = 5, Area = 190
+Sphere: density3.13345866269789, radius = 15, Area = 2827.4333882309998
+Tetrahedron: density = 18.487032717990626, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 7.919048799371986, a = 20,  b = 19,  c = 9, Area = 1462
+Sphere: density14.643972015057699, radius = 20, Area = 5026.548245743999
+Parallelepiped: density = 17.618755676587966, a = 11,  b = 11,  c = 9, Area = 638
+Tetrahedron: density = 13.567298278314496, a = 7, Area = 84.87048957087498
+Sphere: density12.1899431231597, radius = 11, Area = 1520.53084433756
+Sphere: density10.072928718031406, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 12.95217518319923, a = 15, Area = 389.71143170299734
+Sphere: density14.10293252326242, radius = 7, Area = 615.75216010364
+Sphere: density11.93647484576532, radius = 6, Area = 452.38934211696005
+Sphere: density14.275251408434315, radius = 5, Area = 314.15926535899996
+Sphere: density6.430787000658347, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 1.7120524835103557, a = 10,  b = 7,  c = 7, Area = 378
+Sphere: density2.4832776663806277, radius = 9, Area = 1017.87601976316
+Parallelepiped: density = 14.379590574856264, a = 2,  b = 9,  c = 12, Area = 300
+Parallelepiped: density = 0.15064242019854346, a = 13,  b = 4,  c = 10, Area = 444
+Sphere: density7.66604229974174, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 11.774836229512717, a = 6, Area = 62.353829072479584
+Sphere: density3.239490917549255, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 2.08124845598491, a = 1,  b = 7,  c = 7, Area = 126
+Tetrahedron: density = 8.839363155370936, a = 16, Area = 443.40500673763256
+Sphere: density10.217664539429324, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 3.8794979703725008, a = 1,  b = 15,  c = 19, Area = 638
+Sphere: density6.151879387968253, radius = 4, Area = 201.06192982976
+Parallelepiped: density = 0.44838829583854434, a = 9,  b = 6,  c = 20, Area = 708
+Parallelepiped: density = 13.130188451114071, a = 5,  b = 16,  c = 12, Area = 664
+Parallelepiped: density = 6.234679857831127, a = 20,  b = 20,  c = 13, Area = 1840
+Parallelepiped: density = 10.865391291833792, a = 16,  b = 4,  c = 20, Area = 928
+Parallelepiped: density = 11.879718791252575, a = 11,  b = 5,  c = 14, Area = 558
+Tetrahedron: density = 0.12994573676374355, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 18.57296515240953, a = 9,  b = 15,  c = 1, Area = 318
+Parallelepiped: density = 2.5103051685945488, a = 8,  b = 15,  c = 12, Area = 792
+Sphere: density3.1277761513580726, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 6.371408093264366, a = 11, Area = 209.57814771583415
+Sphere: density5.159482570538694, radius = 7, Area = 615.75216010364
+Tetrahedron: density = 9.252847601414425, a = 15, Area = 389.71143170299734
+Sphere: density19.94214378021332, radius = 8, Area = 804.24771931904
+Tetrahedron: density = 4.243979493469205, a = 8, Area = 110.85125168440814
+Sphere: density0.4866693304268743, radius = 4, Area = 201.06192982976
+Tetrahedron: density = 11.22023862802224, a = 7, Area = 84.87048957087498
+Sphere: density17.50455067607217, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 7.879561008834656, a = 17, Area = 500.5626833874055
+Sphere: density15.587782610990637, radius = 12, Area = 1809.5573684678402
+Sphere: density2.3491310185224212, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 9.408290722783752, a = 6,  b = 11,  c = 13, Area = 574
+Parallelepiped: density = 1.1378268782255208, a = 12,  b = 13,  c = 16, Area = 1112
+Sphere: density0.6742374638334292, radius = 3, Area = 113.09733552924001
+Sphere: density16.910538500017964, radius = 4, Area = 201.06192982976
+Tetrahedron: density = 11.223240409695794, a = 10, Area = 173.2050807568877
+Parallelepiped: density = 10.41601608159258, a = 15,  b = 4,  c = 10, Area = 500
+Sphere: density15.935319062620207, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 3.8490351161331704, a = 15, Area = 389.71143170299734
+Tetrahedron: density = 4.523323898150641, a = 12, Area = 249.41531628991834
+Sphere: density0.8951620406115279, radius = 14, Area = 2463.00864041456
+Parallelepiped: density = 13.020696572140002, a = 10,  b = 1,  c = 11, Area = 262
+Tetrahedron: density = 15.54524964580313, a = 3, Area = 15.588457268119896
+Parallelepiped: density = 11.915769334843315, a = 11,  b = 20,  c = 11, Area = 1122
+Sphere: density14.711048836485684, radius = 13, Area = 2123.71663382684
+Parallelepiped: density = 4.135967891560208, a = 6,  b = 10,  c = 9, Area = 408
+Tetrahedron: density = 4.741375643458953, a = 9, Area = 140.29611541307904
+Parallelepiped: density = 2.447742728108251, a = 5,  b = 6,  c = 2, Area = 104
+Tetrahedron: density = 1.1944656855397806, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 2.675263223598159, a = 10, Area = 173.2050807568877
+Sphere: density1.640302102406619, radius = 11, Area = 1520.53084433756
+Sphere: density17.946990014211476, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 14.101978152373233, a = 6, Area = 62.353829072479584
+Sphere: density12.594218610916979, radius = 8, Area = 804.24771931904
+Tetrahedron: density = 5.97696317885414, a = 5, Area = 43.301270189221924
+Sphere: density15.531833583905838, radius = 10, Area = 1256.6370614359998
+Sphere: density14.35279578734103, radius = 7, Area = 615.75216010364
+Sphere: density13.550809164241846, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 0.568154598917483, a = 18,  b = 18,  c = 4, Area = 936
+Sphere: density7.6415944452864775, radius = 20, Area = 5026.548245743999
+Sphere: density16.574612038081533, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 4.369557462029768, a = 13,  b = 12,  c = 1, Area = 362
+Parallelepiped: density = 13.995792446303154, a = 15,  b = 14,  c = 18, Area = 1464
+Tetrahedron: density = 5.997288396115912, a = 5, Area = 43.301270189221924
+Parallelepiped: density = 4.205798118900677, a = 13,  b = 19,  c = 8, Area = 1006
+Sphere: density10.446214950165551, radius = 5, Area = 314.15926535899996
+Tetrahedron: density = 3.964793491680938, a = 2, Area = 6.928203230275509
+Sphere: density10.499796150973202, radius = 17, Area = 3631.6811075500405
+Sphere: density6.400851662755393, radius = 4, Area = 201.06192982976
+Sphere: density18.854961362897814, radius = 7, Area = 615.75216010364
+Tetrahedron: density = 6.586214600535882, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 3.8102857840021986, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 5.942914484588712, a = 16,  b = 14,  c = 18, Area = 1528
+Sphere: density9.73589666224941, radius = 15, Area = 2827.4333882309998
+Parallelepiped: density = 19.837964990731912, a = 13,  b = 17,  c = 12, Area = 1162
+Parallelepiped: density = 12.599156763492008, a = 5,  b = 18,  c = 11, Area = 686
+Sphere: density19.074696329875522, radius = 4, Area = 201.06192982976
+Parallelepiped: density = 0.655291292139426, a = 14,  b = 19,  c = 16, Area = 1588
+Parallelepiped: density = 2.7301275112474532, a = 11,  b = 17,  c = 13, Area = 1102
+Parallelepiped: density = 3.7143744640944942, a = 4,  b = 17,  c = 18, Area = 892
+Parallelepiped: density = 11.01044431151468, a = 7,  b = 12,  c = 3, Area = 282
+Sphere: density19.382904362815854, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 19.892029351570308, a = 6,  b = 1,  c = 7, Area = 110
+Tetrahedron: density = 9.118663103110364, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 6.413541672347211, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 15.527161075349728, a = 7, Area = 84.87048957087498
+Parallelepiped: density = 18.590039822809324, a = 15,  b = 11,  c = 19, Area = 1318
+Tetrahedron: density = 18.06901853151526, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 12.578727889381335, a = 9,  b = 18,  c = 19, Area = 1350
+Parallelepiped: density = 3.1844621537935858, a = 3,  b = 4,  c = 12, Area = 192
+Tetrahedron: density = 12.986541582825371, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 17.18752610704668, a = 16,  b = 11,  c = 16, Area = 1216
+Parallelepiped: density = 4.728126936357741, a = 13,  b = 12,  c = 11, Area = 862
+Parallelepiped: density = 3.8017606769568757, a = 20,  b = 10,  c = 15, Area = 1300
+Sphere: density7.579033503720025, radius = 20, Area = 5026.548245743999
+Parallelepiped: density = 15.807602841649935, a = 4,  b = 18,  c = 6, Area = 408
+Tetrahedron: density = 17.202759443765526, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 11.124241687382623, a = 4, Area = 27.712812921102035
+Sphere: density14.570496211613978, radius = 13, Area = 2123.71663382684
+Sphere: density9.314219541702105, radius = 11, Area = 1520.53084433756
+Tetrahedron: density = 4.872014211525504, a = 1, Area = 1.7320508075688772
+Sphere: density2.5220701649372845, radius = 1, Area = 12.56637061436
+Tetrahedron: density = 14.20005272915455, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 18.204226682452557, a = 6,  b = 6,  c = 6, Area = 216
+Parallelepiped: density = 9.054036805083584, a = 5,  b = 17,  c = 6, Area = 434
+Parallelepiped: density = 19.493477464615744, a = 12,  b = 4,  c = 4, Area = 224
+Sphere: density4.365958213956027, radius = 14, Area = 2463.00864041456
+Sphere: density16.495856601366235, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 12.358652650600124, a = 15,  b = 8,  c = 18, Area = 1068
+Sphere: density17.084381103454437, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 10.136078164136539, a = 16,  b = 5,  c = 16, Area = 832
+Sphere: density12.930752726553694, radius = 15, Area = 2827.4333882309998
+Tetrahedron: density = 1.8316168399315913, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 17.211100260560787, a = 2,  b = 19,  c = 13, Area = 622
+Sphere: density16.547638428147483, radius = 7, Area = 615.75216010364
+Tetrahedron: density = 15.049539301495242, a = 17, Area = 500.5626833874055
+Tetrahedron: density = 3.396379364731821, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 16.40435452915598, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 4.043165306200567, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 10.075094936133658, a = 12, Area = 249.41531628991834
+Sphere: density13.501344829148117, radius = 19, Area = 4536.45979178396
+Parallelepiped: density = 1.380571063256153, a = 4,  b = 10,  c = 10, Area = 360
+Parallelepiped: density = 1.4265668991267177, a = 19,  b = 15,  c = 5, Area = 910
+Parallelepiped: density = 9.562380331084995, a = 4,  b = 11,  c = 10, Area = 388
+Sphere: density2.968228831829307, radius = 7, Area = 615.75216010364
+Parallelepiped: density = 9.091312682300384, a = 11,  b = 8,  c = 10, Area = 556
+Tetrahedron: density = 2.7240711953213426, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 18.6010489074607, a = 17,  b = 17,  c = 14, Area = 1530
+Sphere: density19.22284339047754, radius = 1, Area = 12.56637061436
+Sphere: density4.790492835208342, radius = 17, Area = 3631.6811075500405
+Parallelepiped: density = 5.576349373016849, a = 20,  b = 5,  c = 13, Area = 850
+Tetrahedron: density = 15.99250733939626, a = 20, Area = 692.8203230275508
+Sphere: density3.589129502329438, radius = 19, Area = 4536.45979178396
+Parallelepiped: density = 15.563668448011752, a = 13,  b = 19,  c = 2, Area = 622
+Sphere: density14.573866258508058, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 11.588318222966974, a = 3,  b = 19,  c = 12, Area = 642
+Tetrahedron: density = 2.197887260029372, a = 17, Area = 500.5626833874055
+Sphere: density10.095281024454145, radius = 6, Area = 452.38934211696005
+Sphere: density12.295032634393081, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 15.521525558432463, a = 5,  b = 20,  c = 7, Area = 550
+Tetrahedron: density = 19.745184057184378, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 6.308400885318912, a = 12,  b = 20,  c = 13, Area = 1312
+Parallelepiped: density = 2.297784364203461, a = 11,  b = 5,  c = 6, Area = 302
+Sphere: density2.010793975139138, radius = 14, Area = 2463.00864041456
+Sphere: density7.2120196922769875, radius = 15, Area = 2827.4333882309998
+Sphere: density16.60835999235697, radius = 11, Area = 1520.53084433756
+Tetrahedron: density = 10.387004312433739, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 0.8436658989423362, a = 6,  b = 6,  c = 1, Area = 96
+Parallelepiped: density = 17.66991861115705, a = 20,  b = 17,  c = 7, Area = 1198
+Parallelepiped: density = 7.656279622158171, a = 10,  b = 7,  c = 7, Area = 378
+Parallelepiped: density = 0.6029616993883269, a = 6,  b = 2,  c = 17, Area = 296
+Sphere: density3.3831423484633283, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 6.997577883742723, a = 7,  b = 8,  c = 13, Area = 502
+Tetrahedron: density = 4.5646997992270455, a = 5, Area = 43.301270189221924
+Sphere: density12.27779783211018, radius = 5, Area = 314.15926535899996
+Tetrahedron: density = 0.28600635645189776, a = 10, Area = 173.2050807568877
+Tetrahedron: density = 6.720215215833076, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 19.36346094124215, a = 11, Area = 209.57814771583415
+Sphere: density15.850058201598955, radius = 20, Area = 5026.548245743999
+Parallelepiped: density = 11.232841664484202, a = 6,  b = 2,  c = 17, Area = 296
+Sphere: density6.5046569843675055, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 11.907003748801854, a = 20,  b = 5,  c = 14, Area = 900
+Parallelepiped: density = 17.09551988635969, a = 8,  b = 13,  c = 9, Area = 586
+Tetrahedron: density = 4.757754009467956, a = 19, Area = 625.2703415323647
+Tetrahedron: density = 17.984264819219366, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 5.542023910901981, a = 18, Area = 561.1844616523161
+Sphere: density11.871551693292677, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 3.552397282839632, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 18.06957753458522, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 4.382140620556174, a = 10, Area = 173.2050807568877
+Tetrahedron: density = 14.704492119272643, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 2.4066316387923536, a = 8,  b = 11,  c = 4, Area = 328
+Parallelepiped: density = 14.441899589447079, a = 12,  b = 4,  c = 1, Area = 128
+Sphere: density0.3945509589348828, radius = 11, Area = 1520.53084433756
+Sphere: density2.4314982790488426, radius = 2, Area = 50.26548245744
+Parallelepiped: density = 1.3530621875656612, a = 9,  b = 20,  c = 2, Area = 476
+Parallelepiped: density = 5.48301018520696, a = 4,  b = 3,  c = 2, Area = 52
+Tetrahedron: density = 16.719660197225085, a = 2, Area = 6.928203230275509
+Sphere: density2.3197207760885052, radius = 1, Area = 12.56637061436
+Sphere: density15.256648694638717, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 5.202476795578519, a = 13, Area = 292.71658647914023
+Sphere: density13.657364195619195, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 19.265613883096062, a = 14,  b = 16,  c = 15, Area = 1348
+Sphere: density16.836076403592422, radius = 17, Area = 3631.6811075500405
+Parallelepiped: density = 9.156757381956924, a = 16,  b = 6,  c = 6, Area = 456
+Sphere: density7.294409590440763, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 11.977595857349623, a = 1, Area = 1.7320508075688772
+Sphere: density18.65767543318982, radius = 6, Area = 452.38934211696005
+Sphere: density6.519129255546259, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 17.51133218949706, a = 15,  b = 11,  c = 18, Area = 1266
+Parallelepiped: density = 12.108499450135312, a = 6,  b = 3,  c = 3, Area = 90
+Parallelepiped: density = 16.39940940193543, a = 7,  b = 16,  c = 13, Area = 822
+Sphere: density15.070650638922578, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 4.467947274413109, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 18.22003451317164, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 17.89453577304429, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 1.6859606749106115, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 17.451930994137403, a = 11, Area = 209.57814771583415
+Parallelepiped: density = 10.68366342543516, a = 7,  b = 10,  c = 9, Area = 446
+Parallelepiped: density = 18.761125420472837, a = 7,  b = 14,  c = 1, Area = 238
+Tetrahedron: density = 14.732291425875893, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 14.58620319389994, a = 10,  b = 5,  c = 16, Area = 580
+Sphere: density18.138114048685907, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 14.947083136315278, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 0.3818518415905414, a = 3, Area = 15.588457268119896
+Sphere: density15.07662364574615, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 9.990094573937569, a = 13, Area = 292.71658647914023
+Tetrahedron: density = 14.237245040597063, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 3.6417746050793665, a = 3,  b = 9,  c = 16, Area = 438
+Sphere: density7.990939470014585, radius = 19, Area = 4536.45979178396
+Tetrahedron: density = 5.354974772250253, a = 12, Area = 249.41531628991834
+Parallelepiped: density = 4.479658462423169, a = 20,  b = 10,  c = 2, Area = 520
+Tetrahedron: density = 8.508977554004032, a = 10, Area = 173.2050807568877
+Sphere: density10.495077885987463, radius = 11, Area = 1520.53084433756
+Parallelepiped: density = 4.821064512870496, a = 2,  b = 4,  c = 14, Area = 184
+Sphere: density8.935216542835933, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 5.664761437623172, a = 14,  b = 18,  c = 19, Area = 1720
+Parallelepiped: density = 12.835843524547437, a = 16,  b = 4,  c = 11, Area = 568
+Sphere: density18.248668931150732, radius = 3, Area = 113.09733552924001
+Parallelepiped: density = 19.450620329427966, a = 9,  b = 10,  c = 13, Area = 674
+Sphere: density0.8388015398369886, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 7.012736564664708, a = 19, Area = 625.2703415323647
+Tetrahedron: density = 13.772817251393379, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 15.35027165949942, a = 3,  b = 10,  c = 11, Area = 346
+Sphere: density7.400065014970078, radius = 7, Area = 615.75216010364
+Parallelepiped: density = 3.6080965033336287, a = 17,  b = 14,  c = 2, Area = 600
+Tetrahedron: density = 1.0085630526297606, a = 8, Area = 110.85125168440814
+Sphere: density1.459026131916057, radius = 2, Area = 50.26548245744
+Tetrahedron: density = 4.495308718708828, a = 12, Area = 249.41531628991834
+Parallelepiped: density = 16.297946529659114, a = 9,  b = 4,  c = 10, Area = 332
+Tetrahedron: density = 11.664429271562966, a = 7, Area = 84.87048957087498
+Parallelepiped: density = 15.697918403275729, a = 11,  b = 14,  c = 11, Area = 858
+Sphere: density1.7079498972824703, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 12.006607516849265, a = 1,  b = 2,  c = 4, Area = 28
+Tetrahedron: density = 19.922038724513918, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 11.722511305767608, a = 5, Area = 43.301270189221924
+Tetrahedron: density = 12.120164141704343, a = 2, Area = 6.928203230275509
+Tetrahedron: density = 2.014565821600507, a = 14, Area = 339.4819582834999
+Parallelepiped: density = 0.9015721288504208, a = 20,  b = 6,  c = 12, Area = 864
+Sphere: density9.12970580658192, radius = 12, Area = 1809.5573684678402
+Sphere: density10.036545956635248, radius = 11, Area = 1520.53084433756
+Sphere: density4.94081152010708, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 5.103392588377322, a = 11,  b = 18,  c = 15, Area = 1266
+Parallelepiped: density = 11.909835375318906, a = 14,  b = 2,  c = 4, Area = 184
+Tetrahedron: density = 8.892911769138344, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 17.26653194239039, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 11.675256019025749, a = 9,  b = 10,  c = 20, Area = 940
+Parallelepiped: density = 9.206698765044711, a = 5,  b = 12,  c = 6, Area = 324
+Sphere: density19.248395784616193, radius = 10, Area = 1256.6370614359998
+Parallelepiped: density = 13.349307792044476, a = 1,  b = 15,  c = 8, Area = 286
+Tetrahedron: density = 2.3027481573736552, a = 20, Area = 692.8203230275508
+Sphere: density8.290181939928345, radius = 19, Area = 4536.45979178396
+Tetrahedron: density = 3.965968768807362, a = 16, Area = 443.40500673763256
+Sphere: density12.074391401652287, radius = 5, Area = 314.15926535899996
+Parallelepiped: density = 6.164452798702635, a = 14,  b = 3,  c = 11, Area = 458
+Tetrahedron: density = 14.217267705502913, a = 20, Area = 692.8203230275508
+Sphere: density18.5419633353173, radius = 19, Area = 4536.45979178396
+Tetrahedron: density = 17.727981719031444, a = 18, Area = 561.1844616523161
+Sphere: density2.140409331665969, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 6.593197697007436, a = 12, Area = 249.41531628991834
+Tetrahedron: density = 18.11483882272995, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 8.97578950237822, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 4.297948853652002, a = 8,  b = 9,  c = 3, Area = 246
+Tetrahedron: density = 5.9111789561724315, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 16.984807243774704, a = 14,  b = 17,  c = 10, Area = 1096
+Tetrahedron: density = 10.194751342798583, a = 13, Area = 292.71658647914023
+Sphere: density12.327947926845182, radius = 14, Area = 2463.00864041456
+Sphere: density10.89252594632568, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 15.056527248830836, a = 15,  b = 11,  c = 6, Area = 642
+Sphere: density19.597424066894916, radius = 17, Area = 3631.6811075500405
+Tetrahedron: density = 2.4092938196482483, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 17.477863661998168, a = 10, Area = 173.2050807568877
+Tetrahedron: density = 2.1964123236226207, a = 17, Area = 500.5626833874055
+Tetrahedron: density = 17.36753793800857, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 0.1981891168303651, a = 18,  b = 5,  c = 10, Area = 640
+Tetrahedron: density = 17.758985651168725, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 14.228645313940769, a = 1,  b = 14,  c = 4, Area = 148
+Sphere: density1.1601770312204551, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 2.0098215741354153, a = 6,  b = 7,  c = 9, Area = 318
+Sphere: density10.826990683054913, radius = 5, Area = 314.15926535899996
+Tetrahedron: density = 9.921428916233312, a = 10, Area = 173.2050807568877
+Tetrahedron: density = 4.06751668501075, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 15.667053004074685, a = 3,  b = 6,  c = 5, Area = 126
+Parallelepiped: density = 18.29682946063851, a = 20,  b = 19,  c = 18, Area = 2164
+Sphere: density3.28096864655814, radius = 15, Area = 2827.4333882309998
+Sphere: density5.830372723003583, radius = 10, Area = 1256.6370614359998
+Tetrahedron: density = 7.1013082265655765, a = 9, Area = 140.29611541307904
+Parallelepiped: density = 5.765237905195438, a = 13,  b = 16,  c = 11, Area = 1054
+Parallelepiped: density = 4.199352712798454, a = 15,  b = 19,  c = 3, Area = 774
+Parallelepiped: density = 2.1604144569091743, a = 4,  b = 11,  c = 2, Area = 148
+Parallelepiped: density = 13.608607883166108, a = 18,  b = 10,  c = 15, Area = 1200
+Sphere: density19.303167728477863, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 1.250348439456681, a = 10, Area = 173.2050807568877
+Sphere: density19.732907209751914, radius = 13, Area = 2123.71663382684
+Parallelepiped: density = 10.28411776877212, a = 16,  b = 7,  c = 12, Area = 776
+Tetrahedron: density = 2.506601195568978, a = 6, Area = 62.353829072479584
+Tetrahedron: density = 2.9665296516228867, a = 16, Area = 443.40500673763256
+Parallelepiped: density = 12.954434655778012, a = 3,  b = 19,  c = 5, Area = 334
+Parallelepiped: density = 13.079230134362387, a = 8,  b = 7,  c = 19, Area = 682
+Parallelepiped: density = 6.395068393026571, a = 20,  b = 17,  c = 18, Area = 2012
+Parallelepiped: density = 6.332280463776023, a = 10,  b = 6,  c = 6, Area = 312
+Parallelepiped: density = 18.492846086846615, a = 1,  b = 20,  c = 3, Area = 166
+Parallelepiped: density = 12.3755569985762, a = 10,  b = 18,  c = 4, Area = 584
+Sphere: density12.628036735683377, radius = 2, Area = 50.26548245744
+Tetrahedron: density = 4.804324535580557, a = 19, Area = 625.2703415323647
+Parallelepiped: density = 13.872916824713684, a = 17,  b = 18,  c = 6, Area = 1032
+Parallelepiped: density = 4.903671026759666, a = 6,  b = 8,  c = 10, Area = 376
+Parallelepiped: density = 2.08794377604665, a = 2,  b = 6,  c = 10, Area = 184
+Tetrahedron: density = 14.418750979050706, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 1.3411140864059345, a = 16, Area = 443.40500673763256
+Parallelepiped: density = 9.958337186981428, a = 12,  b = 1,  c = 6, Area = 180
+Parallelepiped: density = 8.54179895481611, a = 7,  b = 12,  c = 7, Area = 434
+Sphere: density1.932875854624172, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 19.69649264032115, a = 19, Area = 625.2703415323647
+Sphere: density12.232956802322274, radius = 6, Area = 452.38934211696005
+Sphere: density1.0294102605275413, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 0.22884412072038174, a = 8, Area = 110.85125168440814
+Sphere: density13.214527450145077, radius = 14, Area = 2463.00864041456
+Sphere: density12.382159414726146, radius = 3, Area = 113.09733552924001
+Tetrahedron: density = 14.377612058867077, a = 16, Area = 443.40500673763256
+Parallelepiped: density = 2.8124507375944163, a = 2,  b = 14,  c = 14, Area = 504
+Sphere: density1.566240612730736, radius = 11, Area = 1520.53084433756
+Sphere: density9.922677541298157, radius = 18, Area = 4071.50407905264
+Tetrahedron: density = 1.4844096251922978, a = 17, Area = 500.5626833874055
+Parallelepiped: density = 7.941832720626259, a = 20,  b = 17,  c = 17, Area = 1938
+Sphere: density10.889963226796823, radius = 12, Area = 1809.5573684678402
+Tetrahedron: density = 13.474887636532758, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 8.872410035550367, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 2.4887115108980673, a = 5, Area = 43.301270189221924
+Sphere: density17.466649591074333, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 1.6742284045698508, a = 15, Area = 389.71143170299734
+Tetrahedron: density = 19.522874652805882, a = 11, Area = 209.57814771583415
+Tetrahedron: density = 1.6626943003358163, a = 7, Area = 84.87048957087498
+Parallelepiped: density = 15.53042843150105, a = 20,  b = 8,  c = 3, Area = 488
+Tetrahedron: density = 7.367260619196141, a = 1, Area = 1.7320508075688772
+Tetrahedron: density = 10.07604855997794, a = 17, Area = 500.5626833874055
+Sphere: density10.441862727281958, radius = 12, Area = 1809.5573684678402
+Sphere: density18.369444776403824, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 14.113821211791018, a = 9,  b = 11,  c = 3, Area = 318
+Sphere: density11.341700432271516, radius = 11, Area = 1520.53084433756
+Tetrahedron: density = 0.3015635668164429, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 9.99123683877448, a = 11,  b = 17,  c = 15, Area = 1214
+Sphere: density12.08172934928822, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 2.7147138215709865, a = 20, Area = 692.8203230275508
+Parallelepiped: density = 1.4499652349729963, a = 20,  b = 13,  c = 14, Area = 1444
+Parallelepiped: density = 12.22841872309462, a = 19,  b = 20,  c = 7, Area = 1306
+Sphere: density6.065737695954798, radius = 16, Area = 3216.99087727616
+Parallelepiped: density = 18.279816086909594, a = 7,  b = 4,  c = 17, Area = 430
+Parallelepiped: density = 2.6554001475227773, a = 4,  b = 16,  c = 2, Area = 208
+Tetrahedron: density = 12.449275312658788, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 2.043067945441255, a = 10,  b = 10,  c = 14, Area = 760
+Tetrahedron: density = 15.984852906239958, a = 5, Area = 43.301270189221924
+Sphere: density5.969375998393951, radius = 1, Area = 12.56637061436
+Sphere: density9.791198790450919, radius = 1, Area = 12.56637061436
+Parallelepiped: density = 9.107172041444763, a = 3,  b = 20,  c = 16, Area = 856
+Sphere: density18.65232335336042, radius = 6, Area = 452.38934211696005
+Sphere: density11.721629527719175, radius = 20, Area = 5026.548245743999
+Tetrahedron: density = 3.493910394953328, a = 4, Area = 27.712812921102035
+Parallelepiped: density = 0.8796873662156846, a = 9,  b = 3,  c = 4, Area = 150
+Parallelepiped: density = 7.7549370109363425, a = 17,  b = 18,  c = 9, Area = 1242
+Tetrahedron: density = 6.707315964008758, a = 9, Area = 140.29611541307904
+Sphere: density0.6706332281322358, radius = 13, Area = 2123.71663382684
+Tetrahedron: density = 15.029919898981285, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 12.12777035381299, a = 8, Area = 110.85125168440814
+Tetrahedron: density = 19.841361741630813, a = 13, Area = 292.71658647914023
+Tetrahedron: density = 7.462740514836616, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 17.181817609923247, a = 17,  b = 7,  c = 11, Area = 766
+Tetrahedron: density = 4.529013284880956, a = 13, Area = 292.71658647914023
+Parallelepiped: density = 10.363775113353297, a = 3,  b = 10,  c = 10, Area = 320
+Sphere: density16.706613438821265, radius = 8, Area = 804.24771931904
+Parallelepiped: density = 10.62578658608302, a = 10,  b = 10,  c = 12, Area = 680
+Tetrahedron: density = 19.119086623973924, a = 4, Area = 27.712812921102035
+Tetrahedron: density = 16.897402004025118, a = 17, Area = 500.5626833874055
+Tetrahedron: density = 13.041652347491015, a = 13, Area = 292.71658647914023
+Sphere: density2.3238322324803073, radius = 11, Area = 1520.53084433756
+Sphere: density4.615594926172461, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 16.26787871012732, a = 20, Area = 692.8203230275508
+Tetrahedron: density = 5.478924965262914, a = 15, Area = 389.71143170299734
+Sphere: density14.060434359039311, radius = 20, Area = 5026.548245743999
+Sphere: density0.8456913686614054, radius = 18, Area = 4071.50407905264
+Tetrahedron: density = 2.640419861587475, a = 5, Area = 43.301270189221924
+Parallelepiped: density = 0.037111159190303944, a = 5,  b = 4,  c = 11, Area = 238
+Sphere: density15.863623341388845, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 6.59223818994499, a = 4,  b = 16,  c = 1, Area = 168
+Parallelepiped: density = 12.932080089428661, a = 20,  b = 9,  c = 14, Area = 1172
+Sphere: density9.514112660804638, radius = 16, Area = 3216.99087727616
+Sphere: density6.8265536239192475, radius = 13, Area = 2123.71663382684
+Sphere: density13.607287505520658, radius = 12, Area = 1809.5573684678402
+Parallelepiped: density = 8.141990082591073, a = 11,  b = 15,  c = 1, Area = 382
+Sphere: density8.841772567109096, radius = 18, Area = 4071.50407905264
+Parallelepiped: density = 1.48568303511734, a = 11,  b = 4,  c = 10, Area = 388
+Tetrahedron: density = 7.771581325686476, a = 19, Area = 625.2703415323647
+Sphere: density18.252969565485323, radius = 6, Area = 452.38934211696005
+Parallelepiped: density = 0.018130589365272787, a = 5,  b = 14,  c = 4, Area = 292
+Parallelepiped: density = 9.182041578041142, a = 10,  b = 4,  c = 4, Area = 192
+Tetrahedron: density = 7.6175739382849965, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 11.5780450099478, a = 14, Area = 339.4819582834999
+Tetrahedron: density = 1.5485502209819768, a = 2, Area = 6.928203230275509
+Parallelepiped: density = 13.386455473136092, a = 17,  b = 11,  c = 12, Area = 1046
+Tetrahedron: density = 12.787764876530828, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 0.2333748128655455, a = 8,  b = 17,  c = 3, Area = 422
+Parallelepiped: density = 0.8172311673953914, a = 10,  b = 10,  c = 7, Area = 480
+Tetrahedron: density = 15.768992467418446, a = 18, Area = 561.1844616523161
+Tetrahedron: density = 18.540985985171353, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 14.245813969456087, a = 17,  b = 18,  c = 17, Area = 1802
+Tetrahedron: density = 17.60068127929493, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 9.773170261215391, a = 17,  b = 17,  c = 14, Area = 1530
+Sphere: density14.586787224170564, radius = 19, Area = 4536.45979178396
+Sphere: density17.37763277877705, radius = 4, Area = 201.06192982976
+Sphere: density6.019262968748862, radius = 20, Area = 5026.548245743999
+Sphere: density1.772894394316784, radius = 10, Area = 1256.6370614359998
+Sphere: density6.909384540130253, radius = 19, Area = 4536.45979178396
+Sphere: density5.344631314722815, radius = 6, Area = 452.38934211696005
+Tetrahedron: density = 15.897887417274221, a = 15, Area = 389.71143170299734
+Parallelepiped: density = 12.611093245298337, a = 8,  b = 8,  c = 5, Area = 288
+Sphere: density6.329757806603564, radius = 6, Area = 452.38934211696005
+Sphere: density1.4058113480507095, radius = 15, Area = 2827.4333882309998
+Parallelepiped: density = 3.9397089097601468, a = 12,  b = 10,  c = 14, Area = 856
+Tetrahedron: density = 1.9082433103228391, a = 8, Area = 110.85125168440814
+Parallelepiped: density = 14.686394962847087, a = 20,  b = 16,  c = 15, Area = 1720
+Parallelepiped: density = 9.505917385570319, a = 1,  b = 20,  c = 9, Area = 418
+Sphere: density19.968686905019155, radius = 3, Area = 113.09733552924001
+Sphere: density1.8070976634841185, radius = 16, Area = 3216.99087727616
+Tetrahedron: density = 5.365218047778533, a = 10, Area = 173.2050807568877
+Sphere: density9.354313779783343, radius = 7, Area = 615.75216010364
+Sphere: density12.604589066443967, radius = 9, Area = 1017.87601976316
+Tetrahedron: density = 14.829640489552244, a = 16, Area = 443.40500673763256
+Sphere: density15.122502153004337, radius = 19, Area = 4536.45979178396
+Tetrahedron: density = 13.651864658792618, a = 1, Area = 1.7320508075688772
+Parallelepiped: density = 12.041449333156429, a = 15,  b = 13,  c = 5, Area = 670
+Tetrahedron: density = 12.225661012288992, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 11.544318476332027, a = 4, Area = 27.712812921102035
+Sphere: density3.0945902440686224, radius = 11, Area = 1520.53084433756
+Sphere: density7.413522917591903, radius = 13, Area = 2123.71663382684
+Sphere: density4.42099530420041, radius = 12, Area = 1809.5573684678402
+Sphere: density16.866980582045553, radius = 8, Area = 804.24771931904
+Sphere: density10.944169774142232, radius = 17, Area = 3631.6811075500405
+Parallelepiped: density = 3.838074473361266, a = 4,  b = 15,  c = 15, Area = 690
+Sphere: density12.109135122048233, radius = 20, Area = 5026.548245743999
+Parallelepiped: density = 14.445554207316087, a = 19,  b = 19,  c = 3, Area = 950
+Sphere: density0.889759609771752, radius = 1, Area = 12.56637061436
+Tetrahedron: density = 9.687892618462639, a = 3, Area = 15.588457268119896
+Tetrahedron: density = 10.45191593452165, a = 7, Area = 84.87048957087498
+Tetrahedron: density = 19.55771444316585, a = 13, Area = 292.71658647914023
+Tetrahedron: density = 14.270619979655635, a = 9, Area = 140.29611541307904
+Sphere: density14.671421414703813, radius = 8, Area = 804.24771931904
+Tetrahedron: density = 10.684766515916852, a = 18, Area = 561.1844616523161
+Parallelepiped: density = 12.514075480652249, a = 3,  b = 8,  c = 13, Area = 334
+Parallelepiped: density = 4.087372437301482, a = 12,  b = 16,  c = 2, Area = 496
+Sphere: density7.412233518344131, radius = 2, Area = 50.26548245744
+Tetrahedron: density = 7.349318443650414, a = 6, Area = 62.353829072479584
+Parallelepiped: density = 19.69649779588882, a = 12,  b = 17,  c = 10, Area = 988
+Parallelepiped: density = 17.62636593204437, a = 7,  b = 16,  c = 15, Area = 914
