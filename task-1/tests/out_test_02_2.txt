@@ -1,0 +1,21 @@
+Container contains 20 elements.
+0: It is Tetrahedron: density = 17.5665, Edge = 11. Area = 209.578
+1: It is Tetrahedron: density = 20.7521, Edge = 55. Area = 5239.45
+2: It is Tetrahedron: density = 12.5411, Edge = 64. Area = 7094.48
+3: It is Tetrahedron: density = 33.8752, Edge = 66. Area = 7544.81
+4: It is Tetrahedron: density = 16.373, Edge = 76. Area = 10004.3
+5: It is Parallelepiped: density = 3.06376, A = 58, B = 15, C = 67. Area = 11522
+6: It is Sphere: density = 8.85033, radius = 31. Area = 12076.3
+7: It is Tetrahedron: density = 26.252, Edge = 86. Area = 12810.2
+8: It is Parallelepiped: density = 40.6823, A = 95, B = 15, C = 46. Area = 12970
+9: It is Parallelepiped: density = 20.2257, A = 11, B = 69, C = 80. Area = 14318
+10: It is Parallelepiped: density = 20.1086, A = 39, B = 99, C = 44. Area = 19866
+11: It is Parallelepiped: density = 5.11377, A = 76, B = 71, C = 52. Area = 26080
+12: It is Parallelepiped: density = 47.6747, A = 91, B = 89, C = 31. Area = 27358
+13: It is Sphere: density = 11.3038, radius = 47. Area = 27759.1
+14: It is Sphere: density = 41.9803, radius = 62. Area = 48305.1
+15: It is Parallelepiped: density = 48.4079, A = 92, B = 92, C = 86. Area = 48576
+16: It is Sphere: density = 43.1881, radius = 74. Area = 68813.4
+17: It is Sphere: density = 40.81, radius = 84. Area = 88668.3
+18: It is Sphere: density = 32.6514, radius = 93. Area = 108687
+19: It is Sphere: density = 42.0165, radius = 96. Area = 115812

@@ -1,0 +1,3 @@
+/home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/src/cmake-build-debug/CMakeFiles/task.dir

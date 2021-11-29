@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task.dir/sphere.cpp.o CMakeFiles/task.dir/tetrahedron.cpp.o CMakeFiles/task.dir/shape.cpp.o CMakeFiles/task.dir/container.cpp.o CMakeFiles/task.dir/main.cpp.o CMakeFiles/task.dir/parallelepiped.cpp.o -o /home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/bin/task 
