@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/src
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ainthero/CLionProjects/02-02-oop-c++dyn/task-1/src/cmake-build-debug

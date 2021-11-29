@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: It is Tetrahedron: density = 19.6944, Edge = 62. Area = 6657.81
+1: It is Sphere: density = 31.8678, radius = 5. Area = 78.5397
+2: It is Parallelepiped: density = 12.1148, A = 73, B = 16, C = 3. Area = 2870
+3: It is Tetrahedron: density = 8.12883, Edge = 71. Area = 8731.01
+4: It is Tetrahedron: density = 31.0405, Edge = 59. Area = 6029.09
+5: It is Parallelepiped: density = 37.8447, A = 21, B = 28, C = 27. Area = 3822
+6: It is Sphere: density = 48.6623, radius = 40. Area = 5026.54
+7: It is Parallelepiped: density = 40.8227, A = 36, B = 56, C = 78. Area = 18384
+8: It is Parallelepiped: density = 1.0126, A = 60, B = 25, C = 56. Area = 12520
+9: It is Tetrahedron: density = 43.7546, Edge = 62. Area = 6657.81

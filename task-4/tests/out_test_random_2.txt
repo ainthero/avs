@@ -1,0 +1,1001 @@
+Container contains 1000 elements.
+0: It is Tetrahedron: density = 20, Edge = 1. Area = 1.732
+1: It is Tetrahedron: density = 7, Edge = 1. Area = 1.732
+2: It is Tetrahedron: density = 12, Edge = 1. Area = 1.732
+3: It is Tetrahedron: density = 19, Edge = 1. Area = 1.732
+4: It is Tetrahedron: density = 17, Edge = 1. Area = 1.732
+5: It is Tetrahedron: density = 20, Edge = 1. Area = 1.732
+6: It is Tetrahedron: density = 1, Edge = 1. Area = 1.732
+7: It is Tetrahedron: density = 5, Edge = 1. Area = 1.732
+8: It is Tetrahedron: density = 20, Edge = 1. Area = 1.732
+9: It is Tetrahedron: density = 3, Edge = 1. Area = 1.732
+10: It is Tetrahedron: density = 11, Edge = 1. Area = 1.732
+11: It is Tetrahedron: density = 13, Edge = 1. Area = 1.732
+12: It is Tetrahedron: density = 4, Edge = 1. Area = 1.732
+13: It is Tetrahedron: density = 13, Edge = 1. Area = 1.732
+14: It is Tetrahedron: density = 4, Edge = 1. Area = 1.732
+15: It is Tetrahedron: density = 19, Edge = 1. Area = 1.732
+16: It is Tetrahedron: density = 4, Edge = 1. Area = 1.732
+17: It is Tetrahedron: density = 17, Edge = 1. Area = 1.732
+18: It is Tetrahedron: density = 1, Edge = 1. Area = 1.732
+19: It is Tetrahedron: density = 5, Edge = 1. Area = 1.732
+20: It is Tetrahedron: density = 2, Edge = 1. Area = 1.732
+21: It is Sphere: density = 19, radius = 1. Area = 3.14159
+22: It is Sphere: density = 7, radius = 1. Area = 3.14159
+23: It is Sphere: density = 17, radius = 1. Area = 3.14159
+24: It is Sphere: density = 1, radius = 1. Area = 3.14159
+25: It is Sphere: density = 1, radius = 1. Area = 3.14159
+26: It is Sphere: density = 7, radius = 1. Area = 3.14159
+27: It is Sphere: density = 15, radius = 1. Area = 3.14159
+28: It is Sphere: density = 7, radius = 1. Area = 3.14159
+29: It is Sphere: density = 15, radius = 1. Area = 3.14159
+30: It is Sphere: density = 3, radius = 1. Area = 3.14159
+31: It is Sphere: density = 7, radius = 1. Area = 3.14159
+32: It is Sphere: density = 10, radius = 1. Area = 3.14159
+33: It is Tetrahedron: density = 18, Edge = 2. Area = 6.928
+34: It is Tetrahedron: density = 12, Edge = 2. Area = 6.928
+35: It is Tetrahedron: density = 2, Edge = 2. Area = 6.928
+36: It is Tetrahedron: density = 3, Edge = 2. Area = 6.928
+37: It is Tetrahedron: density = 17, Edge = 2. Area = 6.928
+38: It is Tetrahedron: density = 8, Edge = 2. Area = 6.928
+39: It is Tetrahedron: density = 9, Edge = 2. Area = 6.928
+40: It is Tetrahedron: density = 2, Edge = 2. Area = 6.928
+41: It is Tetrahedron: density = 12, Edge = 2. Area = 6.928
+42: It is Tetrahedron: density = 10, Edge = 2. Area = 6.928
+43: It is Tetrahedron: density = 14, Edge = 2. Area = 6.928
+44: It is Tetrahedron: density = 13, Edge = 2. Area = 6.928
+45: It is Tetrahedron: density = 7, Edge = 2. Area = 6.928
+46: It is Tetrahedron: density = 10, Edge = 2. Area = 6.928
+47: It is Tetrahedron: density = 6, Edge = 2. Area = 6.928
+48: It is Tetrahedron: density = 18, Edge = 2. Area = 6.928
+49: It is Tetrahedron: density = 14, Edge = 2. Area = 6.928
+50: It is Tetrahedron: density = 7, Edge = 2. Area = 6.928
+51: It is Tetrahedron: density = 15, Edge = 2. Area = 6.928
+52: It is Parallelepiped: density = 17, A = 2, B = 1, C = 1. Area = 10
+53: It is Sphere: density = 2, radius = 2. Area = 12.5664
+54: It is Sphere: density = 20, radius = 2. Area = 12.5664
+55: It is Sphere: density = 1, radius = 2. Area = 12.5664
+56: It is Sphere: density = 5, radius = 2. Area = 12.5664
+57: It is Sphere: density = 12, radius = 2. Area = 12.5664
+58: It is Sphere: density = 15, radius = 2. Area = 12.5664
+59: It is Sphere: density = 4, radius = 2. Area = 12.5664
+60: It is Sphere: density = 20, radius = 2. Area = 12.5664
+61: It is Tetrahedron: density = 6, Edge = 3. Area = 15.588
+62: It is Tetrahedron: density = 10, Edge = 3. Area = 15.588
+63: It is Tetrahedron: density = 13, Edge = 3. Area = 15.588
+64: It is Tetrahedron: density = 9, Edge = 3. Area = 15.588
+65: It is Tetrahedron: density = 16, Edge = 3. Area = 15.588
+66: It is Tetrahedron: density = 2, Edge = 3. Area = 15.588
+67: It is Tetrahedron: density = 1, Edge = 3. Area = 15.588
+68: It is Tetrahedron: density = 15, Edge = 3. Area = 15.588
+69: It is Tetrahedron: density = 20, Edge = 3. Area = 15.588
+70: It is Tetrahedron: density = 7, Edge = 3. Area = 15.588
+71: It is Tetrahedron: density = 3, Edge = 3. Area = 15.588
+72: It is Tetrahedron: density = 1, Edge = 3. Area = 15.588
+73: It is Tetrahedron: density = 11, Edge = 3. Area = 15.588
+74: It is Tetrahedron: density = 9, Edge = 3. Area = 15.588
+75: It is Tetrahedron: density = 14, Edge = 3. Area = 15.588
+76: It is Tetrahedron: density = 12, Edge = 3. Area = 15.588
+77: It is Tetrahedron: density = 12, Edge = 3. Area = 15.588
+78: It is Parallelepiped: density = 8, A = 2, B = 2, C = 1. Area = 16
+79: It is Parallelepiped: density = 6, A = 2, B = 1, C = 2. Area = 16
+80: It is Parallelepiped: density = 13, A = 4, B = 1, C = 1. Area = 18
+81: It is Tetrahedron: density = 1, Edge = 4. Area = 27.712
+82: It is Tetrahedron: density = 16, Edge = 4. Area = 27.712
+83: It is Tetrahedron: density = 14, Edge = 4. Area = 27.712
+84: It is Tetrahedron: density = 14, Edge = 4. Area = 27.712
+85: It is Tetrahedron: density = 16, Edge = 4. Area = 27.712
+86: It is Tetrahedron: density = 6, Edge = 4. Area = 27.712
+87: It is Tetrahedron: density = 5, Edge = 4. Area = 27.712
+88: It is Tetrahedron: density = 4, Edge = 4. Area = 27.712
+89: It is Tetrahedron: density = 9, Edge = 4. Area = 27.712
+90: It is Tetrahedron: density = 3, Edge = 4. Area = 27.712
+91: It is Tetrahedron: density = 6, Edge = 4. Area = 27.712
+92: It is Tetrahedron: density = 5, Edge = 4. Area = 27.712
+93: It is Tetrahedron: density = 7, Edge = 4. Area = 27.712
+94: It is Tetrahedron: density = 3, Edge = 4. Area = 27.712
+95: It is Tetrahedron: density = 20, Edge = 4. Area = 27.712
+96: It is Tetrahedron: density = 8, Edge = 4. Area = 27.712
+97: It is Tetrahedron: density = 17, Edge = 4. Area = 27.712
+98: It is Tetrahedron: density = 13, Edge = 4. Area = 27.712
+99: It is Tetrahedron: density = 19, Edge = 4. Area = 27.712
+100: It is Tetrahedron: density = 7, Edge = 4. Area = 27.712
+101: It is Sphere: density = 13, radius = 3. Area = 28.2743
+102: It is Sphere: density = 9, radius = 3. Area = 28.2743
+103: It is Sphere: density = 14, radius = 3. Area = 28.2743
+104: It is Sphere: density = 14, radius = 3. Area = 28.2743
+105: It is Sphere: density = 11, radius = 3. Area = 28.2743
+106: It is Sphere: density = 2, radius = 3. Area = 28.2743
+107: It is Sphere: density = 11, radius = 3. Area = 28.2743
+108: It is Sphere: density = 14, radius = 3. Area = 28.2743
+109: It is Sphere: density = 2, radius = 3. Area = 28.2743
+110: It is Sphere: density = 2, radius = 3. Area = 28.2743
+111: It is Sphere: density = 3, radius = 3. Area = 28.2743
+112: It is Sphere: density = 15, radius = 3. Area = 28.2743
+113: It is Sphere: density = 1, radius = 3. Area = 28.2743
+114: It is Sphere: density = 7, radius = 3. Area = 28.2743
+115: It is Sphere: density = 20, radius = 3. Area = 28.2743
+116: It is Sphere: density = 18, radius = 3. Area = 28.2743
+117: It is Sphere: density = 4, radius = 3. Area = 28.2743
+118: It is Sphere: density = 12, radius = 3. Area = 28.2743
+119: It is Parallelepiped: density = 20, A = 1, B = 3, C = 3. Area = 30
+120: It is Parallelepiped: density = 6, A = 3, B = 3, C = 1. Area = 30
+121: It is Tetrahedron: density = 1, Edge = 5. Area = 43.3
+122: It is Tetrahedron: density = 3, Edge = 5. Area = 43.3
+123: It is Tetrahedron: density = 17, Edge = 5. Area = 43.3
+124: It is Tetrahedron: density = 9, Edge = 5. Area = 43.3
+125: It is Tetrahedron: density = 17, Edge = 5. Area = 43.3
+126: It is Tetrahedron: density = 20, Edge = 5. Area = 43.3
+127: It is Tetrahedron: density = 17, Edge = 5. Area = 43.3
+128: It is Tetrahedron: density = 11, Edge = 5. Area = 43.3
+129: It is Tetrahedron: density = 17, Edge = 5. Area = 43.3
+130: It is Tetrahedron: density = 16, Edge = 5. Area = 43.3
+131: It is Tetrahedron: density = 12, Edge = 5. Area = 43.3
+132: It is Parallelepiped: density = 15, A = 1, B = 12, C = 1. Area = 50
+133: It is Parallelepiped: density = 16, A = 12, B = 1, C = 1. Area = 50
+134: It is Sphere: density = 16, radius = 4. Area = 50.2654
+135: It is Sphere: density = 1, radius = 4. Area = 50.2654
+136: It is Sphere: density = 8, radius = 4. Area = 50.2654
+137: It is Sphere: density = 10, radius = 4. Area = 50.2654
+138: It is Sphere: density = 6, radius = 4. Area = 50.2654
+139: It is Sphere: density = 17, radius = 4. Area = 50.2654
+140: It is Sphere: density = 9, radius = 4. Area = 50.2654
+141: It is Sphere: density = 14, radius = 4. Area = 50.2654
+142: It is Sphere: density = 2, radius = 4. Area = 50.2654
+143: It is Sphere: density = 2, radius = 4. Area = 50.2654
+144: It is Sphere: density = 6, radius = 4. Area = 50.2654
+145: It is Sphere: density = 10, radius = 4. Area = 50.2654
+146: It is Sphere: density = 1, radius = 4. Area = 50.2654
+147: It is Sphere: density = 1, radius = 4. Area = 50.2654
+148: It is Sphere: density = 16, radius = 4. Area = 50.2654
+149: It is Sphere: density = 7, radius = 4. Area = 50.2654
+150: It is Sphere: density = 6, radius = 4. Area = 50.2654
+151: It is Sphere: density = 15, radius = 4. Area = 50.2654
+152: It is Parallelepiped: density = 12, A = 7, B = 1, C = 3. Area = 62
+153: It is Parallelepiped: density = 2, A = 3, B = 7, C = 1. Area = 62
+154: It is Tetrahedron: density = 16, Edge = 6. Area = 62.352
+155: It is Tetrahedron: density = 4, Edge = 6. Area = 62.352
+156: It is Tetrahedron: density = 19, Edge = 6. Area = 62.352
+157: It is Tetrahedron: density = 5, Edge = 6. Area = 62.352
+158: It is Tetrahedron: density = 2, Edge = 6. Area = 62.352
+159: It is Tetrahedron: density = 8, Edge = 6. Area = 62.352
+160: It is Tetrahedron: density = 8, Edge = 6. Area = 62.352
+161: It is Tetrahedron: density = 2, Edge = 6. Area = 62.352
+162: It is Tetrahedron: density = 19, Edge = 6. Area = 62.352
+163: It is Tetrahedron: density = 4, Edge = 6. Area = 62.352
+164: It is Tetrahedron: density = 17, Edge = 6. Area = 62.352
+165: It is Tetrahedron: density = 9, Edge = 6. Area = 62.352
+166: It is Tetrahedron: density = 9, Edge = 6. Area = 62.352
+167: It is Tetrahedron: density = 14, Edge = 6. Area = 62.352
+168: It is Parallelepiped: density = 14, A = 4, B = 1, C = 6. Area = 68
+169: It is Parallelepiped: density = 17, A = 2, B = 4, C = 5. Area = 76
+170: It is Sphere: density = 11, radius = 5. Area = 78.5397
+171: It is Sphere: density = 1, radius = 5. Area = 78.5397
+172: It is Sphere: density = 4, radius = 5. Area = 78.5397
+173: It is Sphere: density = 3, radius = 5. Area = 78.5397
+174: It is Sphere: density = 8, radius = 5. Area = 78.5397
+175: It is Sphere: density = 7, radius = 5. Area = 78.5397
+176: It is Sphere: density = 18, radius = 5. Area = 78.5397
+177: It is Sphere: density = 16, radius = 5. Area = 78.5397
+178: It is Sphere: density = 15, radius = 5. Area = 78.5397
+179: It is Sphere: density = 14, radius = 5. Area = 78.5397
+180: It is Sphere: density = 4, radius = 5. Area = 78.5397
+181: It is Sphere: density = 5, radius = 5. Area = 78.5397
+182: It is Sphere: density = 15, radius = 5. Area = 78.5397
+183: It is Parallelepiped: density = 6, A = 1, B = 1, C = 20. Area = 82
+184: It is Tetrahedron: density = 20, Edge = 7. Area = 84.868
+185: It is Tetrahedron: density = 10, Edge = 7. Area = 84.868
+186: It is Tetrahedron: density = 7, Edge = 7. Area = 84.868
+187: It is Tetrahedron: density = 9, Edge = 7. Area = 84.868
+188: It is Tetrahedron: density = 4, Edge = 7. Area = 84.868
+189: It is Tetrahedron: density = 8, Edge = 7. Area = 84.868
+190: It is Tetrahedron: density = 11, Edge = 7. Area = 84.868
+191: It is Tetrahedron: density = 18, Edge = 7. Area = 84.868
+192: It is Tetrahedron: density = 2, Edge = 7. Area = 84.868
+193: It is Tetrahedron: density = 18, Edge = 7. Area = 84.868
+194: It is Tetrahedron: density = 14, Edge = 7. Area = 84.868
+195: It is Tetrahedron: density = 9, Edge = 7. Area = 84.868
+196: It is Tetrahedron: density = 15, Edge = 7. Area = 84.868
+197: It is Tetrahedron: density = 3, Edge = 7. Area = 84.868
+198: It is Tetrahedron: density = 18, Edge = 7. Area = 84.868
+199: It is Tetrahedron: density = 4, Edge = 7. Area = 84.868
+200: It is Tetrahedron: density = 1, Edge = 7. Area = 84.868
+201: It is Tetrahedron: density = 6, Edge = 7. Area = 84.868
+202: It is Parallelepiped: density = 16, A = 1, B = 2, C = 14. Area = 88
+203: It is Parallelepiped: density = 20, A = 2, B = 10, C = 2. Area = 88
+204: It is Parallelepiped: density = 17, A = 3, B = 6, C = 3. Area = 90
+205: It is Parallelepiped: density = 6, A = 3, B = 3, C = 7. Area = 102
+206: It is Parallelepiped: density = 7, A = 3, B = 12, C = 1. Area = 102
+207: It is Parallelepiped: density = 17, A = 12, B = 2, C = 2. Area = 104
+208: It is Parallelepiped: density = 7, A = 12, B = 2, C = 2. Area = 104
+209: It is Tetrahedron: density = 12, Edge = 8. Area = 110.848
+210: It is Tetrahedron: density = 5, Edge = 8. Area = 110.848
+211: It is Tetrahedron: density = 9, Edge = 8. Area = 110.848
+212: It is Tetrahedron: density = 7, Edge = 8. Area = 110.848
+213: It is Tetrahedron: density = 19, Edge = 8. Area = 110.848
+214: It is Tetrahedron: density = 2, Edge = 8. Area = 110.848
+215: It is Tetrahedron: density = 12, Edge = 8. Area = 110.848
+216: It is Tetrahedron: density = 17, Edge = 8. Area = 110.848
+217: It is Tetrahedron: density = 9, Edge = 8. Area = 110.848
+218: It is Tetrahedron: density = 4, Edge = 8. Area = 110.848
+219: It is Tetrahedron: density = 11, Edge = 8. Area = 110.848
+220: It is Tetrahedron: density = 1, Edge = 8. Area = 110.848
+221: It is Tetrahedron: density = 20, Edge = 8. Area = 110.848
+222: It is Tetrahedron: density = 4, Edge = 8. Area = 110.848
+223: It is Tetrahedron: density = 17, Edge = 8. Area = 110.848
+224: It is Tetrahedron: density = 8, Edge = 8. Area = 110.848
+225: It is Tetrahedron: density = 17, Edge = 8. Area = 110.848
+226: It is Sphere: density = 14, radius = 6. Area = 113.097
+227: It is Sphere: density = 8, radius = 6. Area = 113.097
+228: It is Sphere: density = 13, radius = 6. Area = 113.097
+229: It is Sphere: density = 12, radius = 6. Area = 113.097
+230: It is Sphere: density = 20, radius = 6. Area = 113.097
+231: It is Sphere: density = 1, radius = 6. Area = 113.097
+232: It is Sphere: density = 5, radius = 6. Area = 113.097
+233: It is Sphere: density = 6, radius = 6. Area = 113.097
+234: It is Sphere: density = 3, radius = 6. Area = 113.097
+235: It is Sphere: density = 4, radius = 6. Area = 113.097
+236: It is Sphere: density = 16, radius = 6. Area = 113.097
+237: It is Sphere: density = 9, radius = 6. Area = 113.097
+238: It is Sphere: density = 18, radius = 6. Area = 113.097
+239: It is Sphere: density = 14, radius = 6. Area = 113.097
+240: It is Sphere: density = 20, radius = 6. Area = 113.097
+241: It is Sphere: density = 9, radius = 6. Area = 113.097
+242: It is Sphere: density = 10, radius = 6. Area = 113.097
+243: It is Sphere: density = 8, radius = 6. Area = 113.097
+244: It is Sphere: density = 8, radius = 6. Area = 113.097
+245: It is Sphere: density = 17, radius = 6. Area = 113.097
+246: It is Sphere: density = 16, radius = 6. Area = 113.097
+247: It is Sphere: density = 18, radius = 6. Area = 113.097
+248: It is Parallelepiped: density = 5, A = 5, B = 1, C = 9. Area = 118
+249: It is Parallelepiped: density = 20, A = 19, B = 1, C = 2. Area = 118
+250: It is Parallelepiped: density = 8, A = 4, B = 1, C = 11. Area = 118
+251: It is Parallelepiped: density = 4, A = 4, B = 7, C = 3. Area = 122
+252: It is Parallelepiped: density = 8, A = 6, B = 1, C = 8. Area = 124
+253: It is Parallelepiped: density = 20, A = 8, B = 6, C = 1. Area = 124
+254: It is Parallelepiped: density = 2, A = 6, B = 4, C = 4. Area = 128
+255: It is Parallelepiped: density = 5, A = 1, B = 10, C = 5. Area = 130
+256: It is Parallelepiped: density = 3, A = 3, B = 16, C = 1. Area = 134
+257: It is Tetrahedron: density = 8, Edge = 9. Area = 140.292
+258: It is Tetrahedron: density = 19, Edge = 9. Area = 140.292
+259: It is Tetrahedron: density = 10, Edge = 9. Area = 140.292
+260: It is Tetrahedron: density = 7, Edge = 9. Area = 140.292
+261: It is Tetrahedron: density = 14, Edge = 9. Area = 140.292
+262: It is Tetrahedron: density = 1, Edge = 9. Area = 140.292
+263: It is Tetrahedron: density = 6, Edge = 9. Area = 140.292
+264: It is Tetrahedron: density = 9, Edge = 9. Area = 140.292
+265: It is Tetrahedron: density = 7, Edge = 9. Area = 140.292
+266: It is Tetrahedron: density = 17, Edge = 9. Area = 140.292
+267: It is Tetrahedron: density = 5, Edge = 9. Area = 140.292
+268: It is Tetrahedron: density = 2, Edge = 9. Area = 140.292
+269: It is Tetrahedron: density = 17, Edge = 9. Area = 140.292
+270: It is Tetrahedron: density = 8, Edge = 9. Area = 140.292
+271: It is Tetrahedron: density = 14, Edge = 9. Area = 140.292
+272: It is Tetrahedron: density = 15, Edge = 9. Area = 140.292
+273: It is Tetrahedron: density = 10, Edge = 9. Area = 140.292
+274: It is Tetrahedron: density = 1, Edge = 9. Area = 140.292
+275: It is Tetrahedron: density = 6, Edge = 9. Area = 140.292
+276: It is Tetrahedron: density = 1, Edge = 9. Area = 140.292
+277: It is Tetrahedron: density = 7, Edge = 9. Area = 140.292
+278: It is Tetrahedron: density = 17, Edge = 9. Area = 140.292
+279: It is Parallelepiped: density = 14, A = 1, B = 11, C = 5. Area = 142
+280: It is Sphere: density = 1, radius = 7. Area = 153.938
+281: It is Sphere: density = 16, radius = 7. Area = 153.938
+282: It is Sphere: density = 15, radius = 7. Area = 153.938
+283: It is Sphere: density = 14, radius = 7. Area = 153.938
+284: It is Sphere: density = 19, radius = 7. Area = 153.938
+285: It is Sphere: density = 6, radius = 7. Area = 153.938
+286: It is Sphere: density = 16, radius = 7. Area = 153.938
+287: It is Sphere: density = 11, radius = 7. Area = 153.938
+288: It is Sphere: density = 9, radius = 7. Area = 153.938
+289: It is Sphere: density = 19, radius = 7. Area = 153.938
+290: It is Sphere: density = 18, radius = 7. Area = 153.938
+291: It is Sphere: density = 10, radius = 7. Area = 153.938
+292: It is Sphere: density = 5, radius = 7. Area = 153.938
+293: It is Sphere: density = 16, radius = 7. Area = 153.938
+294: It is Parallelepiped: density = 5, A = 2, B = 7, C = 7. Area = 154
+295: It is Parallelepiped: density = 11, A = 1, B = 15, C = 4. Area = 158
+296: It is Parallelepiped: density = 20, A = 4, B = 12, C = 2. Area = 160
+297: It is Parallelepiped: density = 12, A = 15, B = 2, C = 3. Area = 162
+298: It is Parallelepiped: density = 15, A = 1, B = 20, C = 3. Area = 166
+299: It is Parallelepiped: density = 9, A = 4, B = 2, C = 13. Area = 172
+300: It is Tetrahedron: density = 7, Edge = 10. Area = 173.2
+301: It is Tetrahedron: density = 9, Edge = 10. Area = 173.2
+302: It is Tetrahedron: density = 15, Edge = 10. Area = 173.2
+303: It is Tetrahedron: density = 15, Edge = 10. Area = 173.2
+304: It is Tetrahedron: density = 19, Edge = 10. Area = 173.2
+305: It is Tetrahedron: density = 16, Edge = 10. Area = 173.2
+306: It is Tetrahedron: density = 18, Edge = 10. Area = 173.2
+307: It is Tetrahedron: density = 17, Edge = 10. Area = 173.2
+308: It is Tetrahedron: density = 14, Edge = 10. Area = 173.2
+309: It is Tetrahedron: density = 18, Edge = 10. Area = 173.2
+310: It is Tetrahedron: density = 3, Edge = 10. Area = 173.2
+311: It is Tetrahedron: density = 3, Edge = 10. Area = 173.2
+312: It is Tetrahedron: density = 20, Edge = 10. Area = 173.2
+313: It is Tetrahedron: density = 1, Edge = 10. Area = 173.2
+314: It is Parallelepiped: density = 6, A = 10, B = 1, C = 7. Area = 174
+315: It is Parallelepiped: density = 12, A = 3, B = 5, C = 9. Area = 174
+316: It is Parallelepiped: density = 18, A = 9, B = 3, C = 5. Area = 174
+317: It is Parallelepiped: density = 14, A = 6, B = 1, C = 12. Area = 180
+318: It is Parallelepiped: density = 16, A = 7, B = 7, C = 3. Area = 182
+319: It is Parallelepiped: density = 4, A = 8, B = 5, C = 4. Area = 184
+320: It is Parallelepiped: density = 15, A = 7, B = 5, C = 5. Area = 190
+321: It is Parallelepiped: density = 4, A = 3, B = 4, C = 12. Area = 192
+322: It is Parallelepiped: density = 6, A = 10, B = 1, C = 8. Area = 196
+323: It is Parallelepiped: density = 2, A = 2, B = 15, C = 4. Area = 196
+324: It is Parallelepiped: density = 7, A = 15, B = 4, C = 2. Area = 196
+325: It is Parallelepiped: density = 3, A = 6, B = 3, C = 9. Area = 198
+326: It is Parallelepiped: density = 2, A = 6, B = 3, C = 9. Area = 198
+327: It is Sphere: density = 9, radius = 8. Area = 201.062
+328: It is Sphere: density = 18, radius = 8. Area = 201.062
+329: It is Sphere: density = 15, radius = 8. Area = 201.062
+330: It is Sphere: density = 1, radius = 8. Area = 201.062
+331: It is Sphere: density = 6, radius = 8. Area = 201.062
+332: It is Sphere: density = 6, radius = 8. Area = 201.062
+333: It is Sphere: density = 14, radius = 8. Area = 201.062
+334: It is Sphere: density = 12, radius = 8. Area = 201.062
+335: It is Sphere: density = 1, radius = 8. Area = 201.062
+336: It is Sphere: density = 13, radius = 8. Area = 201.062
+337: It is Sphere: density = 14, radius = 8. Area = 201.062
+338: It is Sphere: density = 2, radius = 8. Area = 201.062
+339: It is Sphere: density = 16, radius = 8. Area = 201.062
+340: It is Sphere: density = 8, radius = 8. Area = 201.062
+341: It is Parallelepiped: density = 4, A = 7, B = 3, C = 8. Area = 202
+342: It is Parallelepiped: density = 7, A = 3, B = 11, C = 5. Area = 206
+343: It is Parallelepiped: density = 17, A = 14, B = 1, C = 6. Area = 208
+344: It is Parallelepiped: density = 4, A = 4, B = 20, C = 1. Area = 208
+345: It is Parallelepiped: density = 8, A = 8, B = 4, C = 6. Area = 208
+346: It is Tetrahedron: density = 19, Edge = 11. Area = 209.572
+347: It is Tetrahedron: density = 8, Edge = 11. Area = 209.572
+348: It is Tetrahedron: density = 14, Edge = 11. Area = 209.572
+349: It is Tetrahedron: density = 3, Edge = 11. Area = 209.572
+350: It is Tetrahedron: density = 17, Edge = 11. Area = 209.572
+351: It is Tetrahedron: density = 1, Edge = 11. Area = 209.572
+352: It is Tetrahedron: density = 18, Edge = 11. Area = 209.572
+353: It is Tetrahedron: density = 7, Edge = 11. Area = 209.572
+354: It is Tetrahedron: density = 14, Edge = 11. Area = 209.572
+355: It is Tetrahedron: density = 13, Edge = 11. Area = 209.572
+356: It is Tetrahedron: density = 17, Edge = 11. Area = 209.572
+357: It is Tetrahedron: density = 15, Edge = 11. Area = 209.572
+358: It is Tetrahedron: density = 10, Edge = 11. Area = 209.572
+359: It is Tetrahedron: density = 12, Edge = 11. Area = 209.572
+360: It is Tetrahedron: density = 11, Edge = 11. Area = 209.572
+361: It is Parallelepiped: density = 18, A = 8, B = 5, C = 5. Area = 210
+362: It is Parallelepiped: density = 18, A = 17, B = 1, C = 5. Area = 214
+363: It is Parallelepiped: density = 7, A = 13, B = 7, C = 1. Area = 222
+364: It is Parallelepiped: density = 1, A = 15, B = 5, C = 2. Area = 230
+365: It is Parallelepiped: density = 2, A = 5, B = 9, C = 5. Area = 230
+366: It is Parallelepiped: density = 19, A = 10, B = 2, C = 8. Area = 232
+367: It is Parallelepiped: density = 20, A = 7, B = 4, C = 8. Area = 232
+368: It is Parallelepiped: density = 9, A = 4, B = 2, C = 18. Area = 232
+369: It is Parallelepiped: density = 2, A = 3, B = 4, C = 15. Area = 234
+370: It is Parallelepiped: density = 14, A = 5, B = 1, C = 19. Area = 238
+371: It is Parallelepiped: density = 8, A = 5, B = 4, C = 11. Area = 238
+372: It is Parallelepiped: density = 3, A = 3, B = 8, C = 9. Area = 246
+373: It is Parallelepiped: density = 9, A = 8, B = 9, C = 3. Area = 246
+374: It is Tetrahedron: density = 17, Edge = 12. Area = 249.408
+375: It is Tetrahedron: density = 10, Edge = 12. Area = 249.408
+376: It is Tetrahedron: density = 19, Edge = 12. Area = 249.408
+377: It is Tetrahedron: density = 8, Edge = 12. Area = 249.408
+378: It is Tetrahedron: density = 15, Edge = 12. Area = 249.408
+379: It is Tetrahedron: density = 10, Edge = 12. Area = 249.408
+380: It is Tetrahedron: density = 17, Edge = 12. Area = 249.408
+381: It is Tetrahedron: density = 15, Edge = 12. Area = 249.408
+382: It is Tetrahedron: density = 6, Edge = 12. Area = 249.408
+383: It is Tetrahedron: density = 4, Edge = 12. Area = 249.408
+384: It is Tetrahedron: density = 16, Edge = 12. Area = 249.408
+385: It is Tetrahedron: density = 16, Edge = 12. Area = 249.408
+386: It is Tetrahedron: density = 14, Edge = 12. Area = 249.408
+387: It is Tetrahedron: density = 11, Edge = 12. Area = 249.408
+388: It is Tetrahedron: density = 15, Edge = 12. Area = 249.408
+389: It is Tetrahedron: density = 1, Edge = 12. Area = 249.408
+390: It is Tetrahedron: density = 1, Edge = 12. Area = 249.408
+391: It is Tetrahedron: density = 13, Edge = 12. Area = 249.408
+392: It is Tetrahedron: density = 2, Edge = 12. Area = 249.408
+393: It is Tetrahedron: density = 3, Edge = 12. Area = 249.408
+394: It is Parallelepiped: density = 3, A = 1, B = 15, C = 7. Area = 254
+395: It is Sphere: density = 20, radius = 9. Area = 254.469
+396: It is Sphere: density = 4, radius = 9. Area = 254.469
+397: It is Sphere: density = 5, radius = 9. Area = 254.469
+398: It is Sphere: density = 6, radius = 9. Area = 254.469
+399: It is Sphere: density = 4, radius = 9. Area = 254.469
+400: It is Sphere: density = 18, radius = 9. Area = 254.469
+401: It is Sphere: density = 19, radius = 9. Area = 254.469
+402: It is Sphere: density = 18, radius = 9. Area = 254.469
+403: It is Sphere: density = 11, radius = 9. Area = 254.469
+404: It is Sphere: density = 11, radius = 9. Area = 254.469
+405: It is Sphere: density = 15, radius = 9. Area = 254.469
+406: It is Sphere: density = 11, radius = 9. Area = 254.469
+407: It is Sphere: density = 3, radius = 9. Area = 254.469
+408: It is Sphere: density = 4, radius = 9. Area = 254.469
+409: It is Sphere: density = 2, radius = 9. Area = 254.469
+410: It is Sphere: density = 6, radius = 9. Area = 254.469
+411: It is Sphere: density = 5, radius = 9. Area = 254.469
+412: It is Sphere: density = 8, radius = 9. Area = 254.469
+413: It is Sphere: density = 3, radius = 9. Area = 254.469
+414: It is Sphere: density = 20, radius = 9. Area = 254.469
+415: It is Sphere: density = 7, radius = 9. Area = 254.469
+416: It is Sphere: density = 15, radius = 9. Area = 254.469
+417: It is Sphere: density = 17, radius = 9. Area = 254.469
+418: It is Sphere: density = 2, radius = 9. Area = 254.469
+419: It is Sphere: density = 14, radius = 9. Area = 254.469
+420: It is Parallelepiped: density = 10, A = 3, B = 20, C = 3. Area = 258
+421: It is Parallelepiped: density = 5, A = 9, B = 5, C = 6. Area = 258
+422: It is Parallelepiped: density = 14, A = 1, B = 10, C = 11. Area = 262
+423: It is Parallelepiped: density = 2, A = 14, B = 8, C = 1. Area = 268
+424: It is Parallelepiped: density = 8, A = 11, B = 5, C = 5. Area = 270
+425: It is Parallelepiped: density = 12, A = 4, B = 15, C = 4. Area = 272
+426: It is Parallelepiped: density = 14, A = 4, B = 13, C = 5. Area = 274
+427: It is Parallelepiped: density = 10, A = 6, B = 1, C = 19. Area = 278
+428: It is Parallelepiped: density = 2, A = 16, B = 6, C = 2. Area = 280
+429: It is Parallelepiped: density = 9, A = 10, B = 6, C = 5. Area = 280
+430: It is Parallelepiped: density = 7, A = 8, B = 4, C = 9. Area = 280
+431: It is Parallelepiped: density = 2, A = 12, B = 7, C = 3. Area = 282
+432: It is Parallelepiped: density = 16, A = 6, B = 12, C = 4. Area = 288
+433: It is Parallelepiped: density = 10, A = 3, B = 8, C = 11. Area = 290
+434: It is Parallelepiped: density = 5, A = 5, B = 12, C = 5. Area = 290
+435: It is Tetrahedron: density = 2, Edge = 13. Area = 292.708
+436: It is Tetrahedron: density = 4, Edge = 13. Area = 292.708
+437: It is Tetrahedron: density = 16, Edge = 13. Area = 292.708
+438: It is Tetrahedron: density = 7, Edge = 13. Area = 292.708
+439: It is Tetrahedron: density = 8, Edge = 13. Area = 292.708
+440: It is Tetrahedron: density = 10, Edge = 13. Area = 292.708
+441: It is Tetrahedron: density = 1, Edge = 13. Area = 292.708
+442: It is Tetrahedron: density = 11, Edge = 13. Area = 292.708
+443: It is Tetrahedron: density = 15, Edge = 13. Area = 292.708
+444: It is Tetrahedron: density = 12, Edge = 13. Area = 292.708
+445: It is Tetrahedron: density = 5, Edge = 13. Area = 292.708
+446: It is Tetrahedron: density = 6, Edge = 13. Area = 292.708
+447: It is Tetrahedron: density = 14, Edge = 13. Area = 292.708
+448: It is Parallelepiped: density = 11, A = 18, B = 1, C = 7. Area = 302
+449: It is Parallelepiped: density = 19, A = 4, B = 10, C = 8. Area = 304
+450: It is Parallelepiped: density = 9, A = 5, B = 8, C = 9. Area = 314
+451: It is Sphere: density = 20, radius = 10. Area = 314.159
+452: It is Sphere: density = 15, radius = 10. Area = 314.159
+453: It is Sphere: density = 14, radius = 10. Area = 314.159
+454: It is Sphere: density = 12, radius = 10. Area = 314.159
+455: It is Sphere: density = 4, radius = 10. Area = 314.159
+456: It is Sphere: density = 6, radius = 10. Area = 314.159
+457: It is Sphere: density = 8, radius = 10. Area = 314.159
+458: It is Sphere: density = 1, radius = 10. Area = 314.159
+459: It is Sphere: density = 12, radius = 10. Area = 314.159
+460: It is Sphere: density = 1, radius = 10. Area = 314.159
+461: It is Sphere: density = 12, radius = 10. Area = 314.159
+462: It is Sphere: density = 18, radius = 10. Area = 314.159
+463: It is Sphere: density = 17, radius = 10. Area = 314.159
+464: It is Sphere: density = 11, radius = 10. Area = 314.159
+465: It is Sphere: density = 3, radius = 10. Area = 314.159
+466: It is Sphere: density = 14, radius = 10. Area = 314.159
+467: It is Sphere: density = 16, radius = 10. Area = 314.159
+468: It is Sphere: density = 6, radius = 10. Area = 314.159
+469: It is Sphere: density = 5, radius = 10. Area = 314.159
+470: It is Sphere: density = 18, radius = 10. Area = 314.159
+471: It is Sphere: density = 19, radius = 10. Area = 314.159
+472: It is Sphere: density = 10, radius = 10. Area = 314.159
+473: It is Sphere: density = 5, radius = 10. Area = 314.159
+474: It is Sphere: density = 2, radius = 10. Area = 314.159
+475: It is Parallelepiped: density = 11, A = 7, B = 16, C = 2. Area = 316
+476: It is Parallelepiped: density = 11, A = 3, B = 7, C = 14. Area = 322
+477: It is Parallelepiped: density = 7, A = 19, B = 3, C = 5. Area = 334
+478: It is Parallelepiped: density = 6, A = 13, B = 11, C = 1. Area = 334
+479: It is Tetrahedron: density = 11, Edge = 14. Area = 339.472
+480: It is Tetrahedron: density = 10, Edge = 14. Area = 339.472
+481: It is Tetrahedron: density = 19, Edge = 14. Area = 339.472
+482: It is Tetrahedron: density = 2, Edge = 14. Area = 339.472
+483: It is Tetrahedron: density = 8, Edge = 14. Area = 339.472
+484: It is Tetrahedron: density = 14, Edge = 14. Area = 339.472
+485: It is Tetrahedron: density = 4, Edge = 14. Area = 339.472
+486: It is Tetrahedron: density = 3, Edge = 14. Area = 339.472
+487: It is Tetrahedron: density = 12, Edge = 14. Area = 339.472
+488: It is Tetrahedron: density = 4, Edge = 14. Area = 339.472
+489: It is Tetrahedron: density = 13, Edge = 14. Area = 339.472
+490: It is Tetrahedron: density = 1, Edge = 14. Area = 339.472
+491: It is Tetrahedron: density = 4, Edge = 14. Area = 339.472
+492: It is Tetrahedron: density = 3, Edge = 14. Area = 339.472
+493: It is Tetrahedron: density = 4, Edge = 14. Area = 339.472
+494: It is Tetrahedron: density = 12, Edge = 14. Area = 339.472
+495: It is Parallelepiped: density = 11, A = 10, B = 5, C = 8. Area = 340
+496: It is Parallelepiped: density = 17, A = 7, B = 3, C = 15. Area = 342
+497: It is Parallelepiped: density = 7, A = 3, B = 12, C = 9. Area = 342
+498: It is Parallelepiped: density = 17, A = 6, B = 3, C = 17. Area = 342
+499: It is Parallelepiped: density = 19, A = 2, B = 9, C = 14. Area = 344
+500: It is Parallelepiped: density = 19, A = 2, B = 9, C = 14. Area = 344
+501: It is Parallelepiped: density = 13, A = 13, B = 5, C = 6. Area = 346
+502: It is Parallelepiped: density = 17, A = 8, B = 19, C = 1. Area = 358
+503: It is Parallelepiped: density = 20, A = 12, B = 5, C = 7. Area = 358
+504: It is Parallelepiped: density = 7, A = 4, B = 10, C = 10. Area = 360
+505: It is Parallelepiped: density = 11, A = 12, B = 13, C = 1. Area = 362
+506: It is Parallelepiped: density = 4, A = 5, B = 4, C = 18. Area = 364
+507: It is Parallelepiped: density = 17, A = 14, B = 7, C = 4. Area = 364
+508: It is Parallelepiped: density = 6, A = 5, B = 14, C = 6. Area = 368
+509: It is Parallelepiped: density = 15, A = 5, B = 9, C = 10. Area = 370
+510: It is Parallelepiped: density = 15, A = 10, B = 12, C = 3. Area = 372
+511: It is Parallelepiped: density = 14, A = 8, B = 17, C = 2. Area = 372
+512: It is Parallelepiped: density = 2, A = 3, B = 12, C = 10. Area = 372
+513: It is Parallelepiped: density = 9, A = 13, B = 4, C = 8. Area = 376
+514: It is Sphere: density = 1, radius = 11. Area = 380.132
+515: It is Sphere: density = 11, radius = 11. Area = 380.132
+516: It is Sphere: density = 7, radius = 11. Area = 380.132
+517: It is Sphere: density = 16, radius = 11. Area = 380.132
+518: It is Sphere: density = 5, radius = 11. Area = 380.132
+519: It is Sphere: density = 15, radius = 11. Area = 380.132
+520: It is Sphere: density = 10, radius = 11. Area = 380.132
+521: It is Sphere: density = 14, radius = 11. Area = 380.132
+522: It is Sphere: density = 20, radius = 11. Area = 380.132
+523: It is Sphere: density = 10, radius = 11. Area = 380.132
+524: It is Sphere: density = 6, radius = 11. Area = 380.132
+525: It is Sphere: density = 18, radius = 11. Area = 380.132
+526: It is Sphere: density = 20, radius = 11. Area = 380.132
+527: It is Sphere: density = 16, radius = 11. Area = 380.132
+528: It is Parallelepiped: density = 6, A = 5, B = 19, C = 4. Area = 382
+529: It is Parallelepiped: density = 10, A = 15, B = 11, C = 1. Area = 382
+530: It is Parallelepiped: density = 14, A = 10, B = 4, C = 11. Area = 388
+531: It is Parallelepiped: density = 15, A = 2, B = 16, C = 9. Area = 388
+532: It is Tetrahedron: density = 20, Edge = 15. Area = 389.7
+533: It is Tetrahedron: density = 16, Edge = 15. Area = 389.7
+534: It is Tetrahedron: density = 1, Edge = 15. Area = 389.7
+535: It is Tetrahedron: density = 9, Edge = 15. Area = 389.7
+536: It is Tetrahedron: density = 6, Edge = 15. Area = 389.7
+537: It is Tetrahedron: density = 18, Edge = 15. Area = 389.7
+538: It is Tetrahedron: density = 14, Edge = 15. Area = 389.7
+539: It is Tetrahedron: density = 19, Edge = 15. Area = 389.7
+540: It is Tetrahedron: density = 4, Edge = 15. Area = 389.7
+541: It is Tetrahedron: density = 11, Edge = 15. Area = 389.7
+542: It is Tetrahedron: density = 16, Edge = 15. Area = 389.7
+543: It is Tetrahedron: density = 13, Edge = 15. Area = 389.7
+544: It is Tetrahedron: density = 19, Edge = 15. Area = 389.7
+545: It is Tetrahedron: density = 1, Edge = 15. Area = 389.7
+546: It is Tetrahedron: density = 16, Edge = 15. Area = 389.7
+547: It is Parallelepiped: density = 15, A = 2, B = 18, C = 8. Area = 392
+548: It is Parallelepiped: density = 18, A = 8, B = 3, C = 16. Area = 400
+549: It is Parallelepiped: density = 4, A = 4, B = 5, C = 20. Area = 400
+550: It is Parallelepiped: density = 18, A = 6, B = 14, C = 6. Area = 408
+551: It is Parallelepiped: density = 1, A = 16, B = 6, C = 5. Area = 412
+552: It is Parallelepiped: density = 8, A = 6, B = 16, C = 5. Area = 412
+553: It is Parallelepiped: density = 20, A = 12, B = 2, C = 13. Area = 412
+554: It is Parallelepiped: density = 9, A = 1, B = 13, C = 14. Area = 418
+555: It is Parallelepiped: density = 15, A = 5, B = 6, C = 17. Area = 434
+556: It is Parallelepiped: density = 11, A = 11, B = 2, C = 15. Area = 434
+557: It is Parallelepiped: density = 11, A = 10, B = 19, C = 1. Area = 438
+558: It is Tetrahedron: density = 5, Edge = 16. Area = 443.392
+559: It is Tetrahedron: density = 4, Edge = 16. Area = 443.392
+560: It is Tetrahedron: density = 1, Edge = 16. Area = 443.392
+561: It is Tetrahedron: density = 4, Edge = 16. Area = 443.392
+562: It is Tetrahedron: density = 2, Edge = 16. Area = 443.392
+563: It is Tetrahedron: density = 7, Edge = 16. Area = 443.392
+564: It is Tetrahedron: density = 3, Edge = 16. Area = 443.392
+565: It is Tetrahedron: density = 8, Edge = 16. Area = 443.392
+566: It is Tetrahedron: density = 20, Edge = 16. Area = 443.392
+567: It is Tetrahedron: density = 4, Edge = 16. Area = 443.392
+568: It is Tetrahedron: density = 3, Edge = 16. Area = 443.392
+569: It is Tetrahedron: density = 6, Edge = 16. Area = 443.392
+570: It is Tetrahedron: density = 18, Edge = 16. Area = 443.392
+571: It is Tetrahedron: density = 15, Edge = 16. Area = 443.392
+572: It is Tetrahedron: density = 16, Edge = 16. Area = 443.392
+573: It is Tetrahedron: density = 10, Edge = 16. Area = 443.392
+574: It is Parallelepiped: density = 18, A = 1, B = 15, C = 13. Area = 446
+575: It is Parallelepiped: density = 14, A = 17, B = 2, C = 10. Area = 448
+576: It is Parallelepiped: density = 10, A = 6, B = 20, C = 4. Area = 448
+577: It is Sphere: density = 11, radius = 12. Area = 452.389
+578: It is Sphere: density = 6, radius = 12. Area = 452.389
+579: It is Sphere: density = 12, radius = 12. Area = 452.389
+580: It is Sphere: density = 19, radius = 12. Area = 452.389
+581: It is Sphere: density = 12, radius = 12. Area = 452.389
+582: It is Sphere: density = 14, radius = 12. Area = 452.389
+583: It is Sphere: density = 20, radius = 12. Area = 452.389
+584: It is Sphere: density = 12, radius = 12. Area = 452.389
+585: It is Sphere: density = 9, radius = 12. Area = 452.389
+586: It is Sphere: density = 6, radius = 12. Area = 452.389
+587: It is Sphere: density = 6, radius = 12. Area = 452.389
+588: It is Sphere: density = 16, radius = 12. Area = 452.389
+589: It is Sphere: density = 18, radius = 12. Area = 452.389
+590: It is Sphere: density = 19, radius = 12. Area = 452.389
+591: It is Parallelepiped: density = 16, A = 4, B = 9, C = 15. Area = 462
+592: It is Parallelepiped: density = 6, A = 2, B = 14, C = 13. Area = 472
+593: It is Parallelepiped: density = 12, A = 6, B = 10, C = 11. Area = 472
+594: It is Parallelepiped: density = 9, A = 10, B = 14, C = 4. Area = 472
+595: It is Parallelepiped: density = 5, A = 6, B = 15, C = 7. Area = 474
+596: It is Parallelepiped: density = 11, A = 5, B = 6, C = 19. Area = 478
+597: It is Parallelepiped: density = 16, A = 5, B = 14, C = 9. Area = 482
+598: It is Parallelepiped: density = 14, A = 5, B = 14, C = 9. Area = 482
+599: It is Parallelepiped: density = 10, A = 3, B = 12, C = 14. Area = 492
+600: It is Parallelepiped: density = 14, A = 2, B = 10, C = 19. Area = 496
+601: It is Parallelepiped: density = 9, A = 7, B = 6, C = 16. Area = 500
+602: It is Tetrahedron: density = 18, Edge = 17. Area = 500.548
+603: It is Tetrahedron: density = 16, Edge = 17. Area = 500.548
+604: It is Tetrahedron: density = 2, Edge = 17. Area = 500.548
+605: It is Tetrahedron: density = 15, Edge = 17. Area = 500.548
+606: It is Tetrahedron: density = 13, Edge = 17. Area = 500.548
+607: It is Tetrahedron: density = 4, Edge = 17. Area = 500.548
+608: It is Tetrahedron: density = 8, Edge = 17. Area = 500.548
+609: It is Tetrahedron: density = 20, Edge = 17. Area = 500.548
+610: It is Tetrahedron: density = 1, Edge = 17. Area = 500.548
+611: It is Tetrahedron: density = 18, Edge = 17. Area = 500.548
+612: It is Tetrahedron: density = 20, Edge = 17. Area = 500.548
+613: It is Tetrahedron: density = 16, Edge = 17. Area = 500.548
+614: It is Tetrahedron: density = 15, Edge = 17. Area = 500.548
+615: It is Tetrahedron: density = 5, Edge = 17. Area = 500.548
+616: It is Tetrahedron: density = 18, Edge = 17. Area = 500.548
+617: It is Parallelepiped: density = 11, A = 11, B = 11, C = 6. Area = 506
+618: It is Parallelepiped: density = 3, A = 17, B = 9, C = 4. Area = 514
+619: It is Parallelepiped: density = 16, A = 8, B = 6, C = 15. Area = 516
+620: It is Parallelepiped: density = 8, A = 5, B = 14, C = 10. Area = 520
+621: It is Parallelepiped: density = 4, A = 5, B = 8, C = 17. Area = 522
+622: It is Parallelepiped: density = 12, A = 14, B = 13, C = 3. Area = 526
+623: It is Parallelepiped: density = 8, A = 16, B = 4, C = 10. Area = 528
+624: It is Sphere: density = 4, radius = 13. Area = 530.929
+625: It is Sphere: density = 7, radius = 13. Area = 530.929
+626: It is Sphere: density = 8, radius = 13. Area = 530.929
+627: It is Sphere: density = 11, radius = 13. Area = 530.929
+628: It is Sphere: density = 6, radius = 13. Area = 530.929
+629: It is Sphere: density = 18, radius = 13. Area = 530.929
+630: It is Sphere: density = 17, radius = 13. Area = 530.929
+631: It is Sphere: density = 19, radius = 13. Area = 530.929
+632: It is Sphere: density = 14, radius = 13. Area = 530.929
+633: It is Sphere: density = 13, radius = 13. Area = 530.929
+634: It is Sphere: density = 11, radius = 13. Area = 530.929
+635: It is Sphere: density = 7, radius = 13. Area = 530.929
+636: It is Sphere: density = 19, radius = 13. Area = 530.929
+637: It is Sphere: density = 18, radius = 13. Area = 530.929
+638: It is Sphere: density = 2, radius = 13. Area = 530.929
+639: It is Sphere: density = 3, radius = 13. Area = 530.929
+640: It is Sphere: density = 7, radius = 13. Area = 530.929
+641: It is Sphere: density = 11, radius = 13. Area = 530.929
+642: It is Sphere: density = 10, radius = 13. Area = 530.929
+643: It is Sphere: density = 13, radius = 13. Area = 530.929
+644: It is Parallelepiped: density = 11, A = 13, B = 2, C = 16. Area = 532
+645: It is Parallelepiped: density = 8, A = 1, B = 14, C = 17. Area = 538
+646: It is Parallelepiped: density = 2, A = 11, B = 4, C = 15. Area = 538
+647: It is Parallelepiped: density = 2, A = 4, B = 15, C = 11. Area = 538
+648: It is Parallelepiped: density = 6, A = 6, B = 8, C = 16. Area = 544
+649: It is Parallelepiped: density = 5, A = 2, B = 18, C = 12. Area = 552
+650: It is Parallelepiped: density = 11, A = 14, B = 5, C = 11. Area = 558
+651: It is Parallelepiped: density = 13, A = 15, B = 13, C = 3. Area = 558
+652: It is Tetrahedron: density = 13, Edge = 18. Area = 561.168
+653: It is Tetrahedron: density = 12, Edge = 18. Area = 561.168
+654: It is Tetrahedron: density = 6, Edge = 18. Area = 561.168
+655: It is Tetrahedron: density = 13, Edge = 18. Area = 561.168
+656: It is Tetrahedron: density = 14, Edge = 18. Area = 561.168
+657: It is Tetrahedron: density = 13, Edge = 18. Area = 561.168
+658: It is Tetrahedron: density = 5, Edge = 18. Area = 561.168
+659: It is Tetrahedron: density = 8, Edge = 18. Area = 561.168
+660: It is Tetrahedron: density = 5, Edge = 18. Area = 561.168
+661: It is Tetrahedron: density = 15, Edge = 18. Area = 561.168
+662: It is Tetrahedron: density = 16, Edge = 18. Area = 561.168
+663: It is Tetrahedron: density = 12, Edge = 18. Area = 561.168
+664: It is Tetrahedron: density = 1, Edge = 18. Area = 561.168
+665: It is Tetrahedron: density = 10, Edge = 18. Area = 561.168
+666: It is Tetrahedron: density = 9, Edge = 18. Area = 561.168
+667: It is Tetrahedron: density = 9, Edge = 18. Area = 561.168
+668: It is Tetrahedron: density = 3, Edge = 18. Area = 561.168
+669: It is Tetrahedron: density = 4, Edge = 18. Area = 561.168
+670: It is Parallelepiped: density = 2, A = 13, B = 2, C = 17. Area = 562
+671: It is Parallelepiped: density = 2, A = 19, B = 4, C = 9. Area = 566
+672: It is Parallelepiped: density = 4, A = 5, B = 17, C = 9. Area = 566
+673: It is Parallelepiped: density = 19, A = 14, B = 10, C = 6. Area = 568
+674: It is Parallelepiped: density = 2, A = 17, B = 8, C = 6. Area = 572
+675: It is Parallelepiped: density = 18, A = 19, B = 7, C = 6. Area = 578
+676: It is Parallelepiped: density = 15, A = 10, B = 4, C = 18. Area = 584
+677: It is Parallelepiped: density = 10, A = 6, B = 16, C = 9. Area = 588
+678: It is Parallelepiped: density = 2, A = 16, B = 13, C = 3. Area = 590
+679: It is Parallelepiped: density = 14, A = 13, B = 2, C = 18. Area = 592
+680: It is Parallelepiped: density = 9, A = 13, B = 18, C = 2. Area = 592
+681: It is Parallelepiped: density = 19, A = 15, B = 6, C = 10. Area = 600
+682: It is Parallelepiped: density = 2, A = 5, B = 20, C = 8. Area = 600
+683: It is Parallelepiped: density = 12, A = 18, B = 8, C = 6. Area = 600
+684: It is Parallelepiped: density = 2, A = 14, B = 11, C = 6. Area = 608
+685: It is Parallelepiped: density = 1, A = 10, B = 17, C = 5. Area = 610
+686: It is Parallelepiped: density = 16, A = 18, B = 3, C = 12. Area = 612
+687: It is Parallelepiped: density = 2, A = 4, B = 13, C = 15. Area = 614
+688: It is Sphere: density = 9, radius = 14. Area = 615.752
+689: It is Sphere: density = 10, radius = 14. Area = 615.752
+690: It is Sphere: density = 8, radius = 14. Area = 615.752
+691: It is Sphere: density = 13, radius = 14. Area = 615.752
+692: It is Sphere: density = 16, radius = 14. Area = 615.752
+693: It is Sphere: density = 19, radius = 14. Area = 615.752
+694: It is Sphere: density = 1, radius = 14. Area = 615.752
+695: It is Sphere: density = 16, radius = 14. Area = 615.752
+696: It is Sphere: density = 7, radius = 14. Area = 615.752
+697: It is Sphere: density = 13, radius = 14. Area = 615.752
+698: It is Sphere: density = 3, radius = 14. Area = 615.752
+699: It is Sphere: density = 5, radius = 14. Area = 615.752
+700: It is Sphere: density = 17, radius = 14. Area = 615.752
+701: It is Parallelepiped: density = 13, A = 9, B = 14, C = 8. Area = 620
+702: It is Parallelepiped: density = 18, A = 7, B = 8, C = 17. Area = 622
+703: It is Tetrahedron: density = 8, Edge = 19. Area = 625.252
+704: It is Tetrahedron: density = 16, Edge = 19. Area = 625.252
+705: It is Tetrahedron: density = 1, Edge = 19. Area = 625.252
+706: It is Tetrahedron: density = 7, Edge = 19. Area = 625.252
+707: It is Tetrahedron: density = 14, Edge = 19. Area = 625.252
+708: It is Tetrahedron: density = 7, Edge = 19. Area = 625.252
+709: It is Tetrahedron: density = 1, Edge = 19. Area = 625.252
+710: It is Tetrahedron: density = 1, Edge = 19. Area = 625.252
+711: It is Tetrahedron: density = 1, Edge = 19. Area = 625.252
+712: It is Tetrahedron: density = 4, Edge = 19. Area = 625.252
+713: It is Tetrahedron: density = 11, Edge = 19. Area = 625.252
+714: It is Tetrahedron: density = 6, Edge = 19. Area = 625.252
+715: It is Tetrahedron: density = 4, Edge = 19. Area = 625.252
+716: It is Tetrahedron: density = 5, Edge = 19. Area = 625.252
+717: It is Tetrahedron: density = 3, Edge = 19. Area = 625.252
+718: It is Tetrahedron: density = 8, Edge = 19. Area = 625.252
+719: It is Tetrahedron: density = 20, Edge = 19. Area = 625.252
+720: It is Tetrahedron: density = 13, Edge = 19. Area = 625.252
+721: It is Tetrahedron: density = 2, Edge = 19. Area = 625.252
+722: It is Tetrahedron: density = 14, Edge = 19. Area = 625.252
+723: It is Tetrahedron: density = 2, Edge = 19. Area = 625.252
+724: It is Tetrahedron: density = 15, Edge = 19. Area = 625.252
+725: It is Tetrahedron: density = 20, Edge = 19. Area = 625.252
+726: It is Tetrahedron: density = 15, Edge = 19. Area = 625.252
+727: It is Tetrahedron: density = 1, Edge = 19. Area = 625.252
+728: It is Tetrahedron: density = 12, Edge = 19. Area = 625.252
+729: It is Tetrahedron: density = 19, Edge = 19. Area = 625.252
+730: It is Tetrahedron: density = 20, Edge = 19. Area = 625.252
+731: It is Tetrahedron: density = 11, Edge = 19. Area = 625.252
+732: It is Parallelepiped: density = 7, A = 11, B = 20, C = 3. Area = 626
+733: It is Parallelepiped: density = 5, A = 20, B = 1, C = 14. Area = 628
+734: It is Parallelepiped: density = 3, A = 8, B = 10, C = 13. Area = 628
+735: It is Parallelepiped: density = 19, A = 7, B = 9, C = 16. Area = 638
+736: It is Parallelepiped: density = 11, A = 2, B = 16, C = 16. Area = 640
+737: It is Parallelepiped: density = 17, A = 5, B = 10, C = 18. Area = 640
+738: It is Parallelepiped: density = 16, A = 9, B = 6, C = 18. Area = 648
+739: It is Parallelepiped: density = 11, A = 8, B = 7, C = 18. Area = 652
+740: It is Parallelepiped: density = 13, A = 4, B = 15, C = 14. Area = 652
+741: It is Parallelepiped: density = 12, A = 17, B = 14, C = 3. Area = 662
+742: It is Parallelepiped: density = 8, A = 13, B = 7, C = 12. Area = 662
+743: It is Parallelepiped: density = 14, A = 3, B = 17, C = 14. Area = 662
+744: It is Parallelepiped: density = 2, A = 15, B = 3, C = 16. Area = 666
+745: It is Parallelepiped: density = 7, A = 8, B = 11, C = 13. Area = 670
+746: It is Parallelepiped: density = 19, A = 5, B = 19, C = 10. Area = 670
+747: It is Parallelepiped: density = 8, A = 15, B = 20, C = 1. Area = 670
+748: It is Parallelepiped: density = 14, A = 3, B = 12, C = 20. Area = 672
+749: It is Parallelepiped: density = 1, A = 5, B = 14, C = 14. Area = 672
+750: It is Parallelepiped: density = 12, A = 3, B = 13, C = 19. Area = 686
+751: It is Parallelepiped: density = 18, A = 20, B = 11, C = 4. Area = 688
+752: It is Tetrahedron: density = 15, Edge = 20. Area = 692.8
+753: It is Tetrahedron: density = 2, Edge = 20. Area = 692.8
+754: It is Tetrahedron: density = 4, Edge = 20. Area = 692.8
+755: It is Tetrahedron: density = 1, Edge = 20. Area = 692.8
+756: It is Tetrahedron: density = 16, Edge = 20. Area = 692.8
+757: It is Tetrahedron: density = 6, Edge = 20. Area = 692.8
+758: It is Tetrahedron: density = 9, Edge = 20. Area = 692.8
+759: It is Tetrahedron: density = 19, Edge = 20. Area = 692.8
+760: It is Tetrahedron: density = 11, Edge = 20. Area = 692.8
+761: It is Tetrahedron: density = 10, Edge = 20. Area = 692.8
+762: It is Tetrahedron: density = 3, Edge = 20. Area = 692.8
+763: It is Tetrahedron: density = 1, Edge = 20. Area = 692.8
+764: It is Tetrahedron: density = 6, Edge = 20. Area = 692.8
+765: It is Tetrahedron: density = 8, Edge = 20. Area = 692.8
+766: It is Tetrahedron: density = 6, Edge = 20. Area = 692.8
+767: It is Tetrahedron: density = 5, Edge = 20. Area = 692.8
+768: It is Tetrahedron: density = 16, Edge = 20. Area = 692.8
+769: It is Tetrahedron: density = 19, Edge = 20. Area = 692.8
+770: It is Tetrahedron: density = 3, Edge = 20. Area = 692.8
+771: It is Parallelepiped: density = 9, A = 17, B = 5, C = 12. Area = 698
+772: It is Parallelepiped: density = 18, A = 14, B = 12, C = 7. Area = 700
+773: It is Parallelepiped: density = 13, A = 12, B = 19, C = 4. Area = 704
+774: It is Parallelepiped: density = 18, A = 19, B = 15, C = 2. Area = 706
+775: It is Parallelepiped: density = 4, A = 15, B = 19, C = 2. Area = 706
+776: It is Sphere: density = 8, radius = 15. Area = 706.858
+777: It is Sphere: density = 3, radius = 15. Area = 706.858
+778: It is Sphere: density = 6, radius = 15. Area = 706.858
+779: It is Sphere: density = 9, radius = 15. Area = 706.858
+780: It is Sphere: density = 5, radius = 15. Area = 706.858
+781: It is Sphere: density = 7, radius = 15. Area = 706.858
+782: It is Sphere: density = 15, radius = 15. Area = 706.858
+783: It is Sphere: density = 10, radius = 15. Area = 706.858
+784: It is Sphere: density = 14, radius = 15. Area = 706.858
+785: It is Sphere: density = 18, radius = 15. Area = 706.858
+786: It is Sphere: density = 9, radius = 15. Area = 706.858
+787: It is Sphere: density = 18, radius = 15. Area = 706.858
+788: It is Sphere: density = 17, radius = 15. Area = 706.858
+789: It is Sphere: density = 3, radius = 15. Area = 706.858
+790: It is Parallelepiped: density = 7, A = 5, B = 15, C = 14. Area = 710
+791: It is Parallelepiped: density = 18, A = 11, B = 6, C = 17. Area = 710
+792: It is Parallelepiped: density = 13, A = 9, B = 14, C = 10. Area = 712
+793: It is Parallelepiped: density = 9, A = 5, B = 11, C = 19. Area = 718
+794: It is Parallelepiped: density = 19, A = 16, B = 4, C = 15. Area = 728
+795: It is Parallelepiped: density = 14, A = 5, B = 18, C = 12. Area = 732
+796: It is Parallelepiped: density = 15, A = 19, B = 8, C = 8. Area = 736
+797: It is Parallelepiped: density = 2, A = 7, B = 15, C = 12. Area = 738
+798: It is Parallelepiped: density = 7, A = 9, B = 9, C = 16. Area = 738
+799: It is Parallelepiped: density = 3, A = 11, B = 6, C = 18. Area = 744
+800: It is Parallelepiped: density = 11, A = 4, B = 13, C = 19. Area = 750
+801: It is Parallelepiped: density = 15, A = 7, B = 10, C = 18. Area = 752
+802: It is Parallelepiped: density = 18, A = 12, B = 13, C = 9. Area = 762
+803: It is Parallelepiped: density = 13, A = 13, B = 16, C = 6. Area = 764
+804: It is Parallelepiped: density = 3, A = 13, B = 16, C = 6. Area = 764
+805: It is Parallelepiped: density = 10, A = 10, B = 13, C = 11. Area = 766
+806: It is Parallelepiped: density = 7, A = 16, B = 12, C = 7. Area = 776
+807: It is Parallelepiped: density = 9, A = 20, B = 16, C = 2. Area = 784
+808: It is Parallelepiped: density = 12, A = 10, B = 7, C = 19. Area = 786
+809: It is Parallelepiped: density = 1, A = 2, B = 19, C = 17. Area = 790
+810: It is Parallelepiped: density = 4, A = 9, B = 15, C = 11. Area = 798
+811: It is Parallelepiped: density = 6, A = 4, B = 18, C = 15. Area = 804
+812: It is Parallelepiped: density = 19, A = 12, B = 14, C = 9. Area = 804
+813: It is Sphere: density = 6, radius = 16. Area = 804.247
+814: It is Sphere: density = 4, radius = 16. Area = 804.247
+815: It is Sphere: density = 6, radius = 16. Area = 804.247
+816: It is Sphere: density = 4, radius = 16. Area = 804.247
+817: It is Sphere: density = 13, radius = 16. Area = 804.247
+818: It is Sphere: density = 5, radius = 16. Area = 804.247
+819: It is Sphere: density = 10, radius = 16. Area = 804.247
+820: It is Sphere: density = 14, radius = 16. Area = 804.247
+821: It is Sphere: density = 15, radius = 16. Area = 804.247
+822: It is Sphere: density = 8, radius = 16. Area = 804.247
+823: It is Sphere: density = 14, radius = 16. Area = 804.247
+824: It is Sphere: density = 15, radius = 16. Area = 804.247
+825: It is Sphere: density = 20, radius = 16. Area = 804.247
+826: It is Sphere: density = 18, radius = 16. Area = 804.247
+827: It is Sphere: density = 6, radius = 16. Area = 804.247
+828: It is Sphere: density = 3, radius = 16. Area = 804.247
+829: It is Parallelepiped: density = 14, A = 12, B = 10, C = 13. Area = 812
+830: It is Parallelepiped: density = 14, A = 11, B = 13, C = 11. Area = 814
+831: It is Parallelepiped: density = 1, A = 10, B = 20, C = 7. Area = 820
+832: It is Parallelepiped: density = 11, A = 7, B = 13, C = 16. Area = 822
+833: It is Parallelepiped: density = 20, A = 8, B = 9, C = 20. Area = 824
+834: It is Parallelepiped: density = 18, A = 9, B = 8, C = 20. Area = 824
+835: It is Parallelepiped: density = 2, A = 8, B = 19, C = 10. Area = 844
+836: It is Parallelepiped: density = 20, A = 10, B = 19, C = 8. Area = 844
+837: It is Parallelepiped: density = 18, A = 12, B = 10, C = 14. Area = 856
+838: It is Parallelepiped: density = 6, A = 10, B = 13, C = 13. Area = 858
+839: It is Parallelepiped: density = 2, A = 18, B = 11, C = 8. Area = 860
+840: It is Parallelepiped: density = 10, A = 3, B = 19, C = 17. Area = 862
+841: It is Parallelepiped: density = 12, A = 9, B = 18, C = 10. Area = 864
+842: It is Parallelepiped: density = 12, A = 3, B = 18, C = 18. Area = 864
+843: It is Parallelepiped: density = 4, A = 6, B = 12, C = 20. Area = 864
+844: It is Parallelepiped: density = 19, A = 8, B = 16, C = 13. Area = 880
+845: It is Parallelepiped: density = 5, A = 1, B = 20, C = 20. Area = 880
+846: It is Parallelepiped: density = 14, A = 14, B = 8, C = 15. Area = 884
+847: It is Parallelepiped: density = 4, A = 16, B = 11, C = 10. Area = 892
+848: It is Parallelepiped: density = 7, A = 19, B = 9, C = 10. Area = 902
+849: It is Parallelepiped: density = 1, A = 11, B = 11, C = 15. Area = 902
+850: It is Parallelepiped: density = 12, A = 13, B = 10, C = 14. Area = 904
+851: It is Parallelepiped: density = 11, A = 19, B = 18, C = 3. Area = 906
+852: It is Sphere: density = 2, radius = 17. Area = 907.92
+853: It is Sphere: density = 18, radius = 17. Area = 907.92
+854: It is Sphere: density = 7, radius = 17. Area = 907.92
+855: It is Sphere: density = 6, radius = 17. Area = 907.92
+856: It is Sphere: density = 14, radius = 17. Area = 907.92
+857: It is Sphere: density = 14, radius = 17. Area = 907.92
+858: It is Sphere: density = 8, radius = 17. Area = 907.92
+859: It is Sphere: density = 8, radius = 17. Area = 907.92
+860: It is Sphere: density = 17, radius = 17. Area = 907.92
+861: It is Sphere: density = 18, radius = 17. Area = 907.92
+862: It is Sphere: density = 9, radius = 17. Area = 907.92
+863: It is Sphere: density = 2, radius = 17. Area = 907.92
+864: It is Sphere: density = 18, radius = 17. Area = 907.92
+865: It is Sphere: density = 10, radius = 17. Area = 907.92
+866: It is Sphere: density = 14, radius = 17. Area = 907.92
+867: It is Parallelepiped: density = 9, A = 11, B = 12, C = 14. Area = 908
+868: It is Parallelepiped: density = 20, A = 13, B = 11, C = 13. Area = 910
+869: It is Parallelepiped: density = 20, A = 18, B = 10, C = 10. Area = 920
+870: It is Parallelepiped: density = 6, A = 11, B = 10, C = 17. Area = 934
+871: It is Parallelepiped: density = 7, A = 10, B = 17, C = 11. Area = 934
+872: It is Parallelepiped: density = 18, A = 18, B = 3, C = 20. Area = 948
+873: It is Parallelepiped: density = 12, A = 5, B = 20, C = 15. Area = 950
+874: It is Parallelepiped: density = 20, A = 20, B = 5, C = 15. Area = 950
+875: It is Parallelepiped: density = 4, A = 14, B = 7, C = 18. Area = 952
+876: It is Parallelepiped: density = 20, A = 19, B = 9, C = 11. Area = 958
+877: It is Parallelepiped: density = 18, A = 20, B = 2, C = 20. Area = 960
+878: It is Parallelepiped: density = 13, A = 20, B = 17, C = 4. Area = 976
+879: It is Parallelepiped: density = 10, A = 6, B = 19, C = 15. Area = 978
+880: It is Parallelepiped: density = 13, A = 6, B = 19, C = 15. Area = 978
+881: It is Parallelepiped: density = 9, A = 13, B = 20, C = 7. Area = 982
+882: It is Parallelepiped: density = 10, A = 9, B = 13, C = 17. Area = 982
+883: It is Parallelepiped: density = 8, A = 14, B = 9, C = 16. Area = 988
+884: It is Parallelepiped: density = 10, A = 20, B = 11, C = 9. Area = 998
+885: It is Parallelepiped: density = 11, A = 12, B = 16, C = 11. Area = 1000
+886: It is Parallelepiped: density = 18, A = 5, B = 18, C = 18. Area = 1008
+887: It is Parallelepiped: density = 1, A = 19, B = 9, C = 12. Area = 1014
+888: It is Parallelepiped: density = 8, A = 8, B = 18, C = 14. Area = 1016
+889: It is Sphere: density = 5, radius = 18. Area = 1017.88
+890: It is Sphere: density = 16, radius = 18. Area = 1017.88
+891: It is Sphere: density = 5, radius = 18. Area = 1017.88
+892: It is Sphere: density = 13, radius = 18. Area = 1017.88
+893: It is Sphere: density = 11, radius = 18. Area = 1017.88
+894: It is Sphere: density = 11, radius = 18. Area = 1017.88
+895: It is Sphere: density = 11, radius = 18. Area = 1017.88
+896: It is Sphere: density = 20, radius = 18. Area = 1017.88
+897: It is Sphere: density = 5, radius = 18. Area = 1017.88
+898: It is Sphere: density = 3, radius = 18. Area = 1017.88
+899: It is Sphere: density = 1, radius = 18. Area = 1017.88
+900: It is Sphere: density = 1, radius = 18. Area = 1017.88
+901: It is Sphere: density = 14, radius = 18. Area = 1017.88
+902: It is Sphere: density = 2, radius = 18. Area = 1017.88
+903: It is Parallelepiped: density = 19, A = 9, B = 13, C = 18. Area = 1026
+904: It is Parallelepiped: density = 18, A = 12, B = 18, C = 10. Area = 1032
+905: It is Parallelepiped: density = 7, A = 20, B = 3, C = 20. Area = 1040
+906: It is Parallelepiped: density = 11, A = 19, B = 15, C = 7. Area = 1046
+907: It is Parallelepiped: density = 8, A = 20, B = 13, C = 8. Area = 1048
+908: It is Parallelepiped: density = 7, A = 20, B = 11, C = 10. Area = 1060
+909: It is Parallelepiped: density = 6, A = 15, B = 12, C = 13. Area = 1062
+910: It is Parallelepiped: density = 7, A = 4, B = 20, C = 19. Area = 1072
+911: It is Parallelepiped: density = 7, A = 19, B = 11, C = 11. Area = 1078
+912: It is Parallelepiped: density = 20, A = 17, B = 6, C = 19. Area = 1078
+913: It is Parallelepiped: density = 3, A = 19, B = 11, C = 11. Area = 1078
+914: It is Parallelepiped: density = 13, A = 16, B = 16, C = 9. Area = 1088
+915: It is Parallelepiped: density = 1, A = 18, B = 13, C = 10. Area = 1088
+916: It is Parallelepiped: density = 5, A = 20, B = 7, C = 15. Area = 1090
+917: It is Parallelepiped: density = 12, A = 7, B = 19, C = 16. Area = 1098
+918: It is Parallelepiped: density = 15, A = 18, B = 7, C = 17. Area = 1102
+919: It is Parallelepiped: density = 6, A = 17, B = 7, C = 18. Area = 1102
+920: It is Parallelepiped: density = 19, A = 17, B = 13, C = 11. Area = 1102
+921: It is Parallelepiped: density = 20, A = 14, B = 16, C = 11. Area = 1108
+922: It is Parallelepiped: density = 20, A = 20, B = 9, C = 13. Area = 1114
+923: It is Parallelepiped: density = 9, A = 15, B = 14, C = 12. Area = 1116
+924: It is Parallelepiped: density = 11, A = 18, B = 19, C = 6. Area = 1128
+925: It is Sphere: density = 2, radius = 19. Area = 1134.11
+926: It is Sphere: density = 18, radius = 19. Area = 1134.11
+927: It is Sphere: density = 13, radius = 19. Area = 1134.11
+928: It is Sphere: density = 2, radius = 19. Area = 1134.11
+929: It is Sphere: density = 19, radius = 19. Area = 1134.11
+930: It is Sphere: density = 4, radius = 19. Area = 1134.11
+931: It is Sphere: density = 7, radius = 19. Area = 1134.11
+932: It is Sphere: density = 4, radius = 19. Area = 1134.11
+933: It is Sphere: density = 20, radius = 19. Area = 1134.11
+934: It is Sphere: density = 5, radius = 19. Area = 1134.11
+935: It is Sphere: density = 14, radius = 19. Area = 1134.11
+936: It is Sphere: density = 12, radius = 19. Area = 1134.11
+937: It is Sphere: density = 20, radius = 19. Area = 1134.11
+938: It is Sphere: density = 12, radius = 19. Area = 1134.11
+939: It is Sphere: density = 3, radius = 19. Area = 1134.11
+940: It is Sphere: density = 5, radius = 19. Area = 1134.11
+941: It is Sphere: density = 2, radius = 19. Area = 1134.11
+942: It is Sphere: density = 4, radius = 19. Area = 1134.11
+943: It is Parallelepiped: density = 16, A = 9, B = 17, C = 16. Area = 1138
+944: It is Parallelepiped: density = 13, A = 11, B = 19, C = 12. Area = 1138
+945: It is Parallelepiped: density = 5, A = 18, B = 14, C = 10. Area = 1144
+946: It is Parallelepiped: density = 5, A = 12, B = 13, C = 17. Area = 1162
+947: It is Parallelepiped: density = 15, A = 12, B = 17, C = 13. Area = 1162
+948: It is Parallelepiped: density = 6, A = 6, B = 18, C = 20. Area = 1176
+949: It is Parallelepiped: density = 15, A = 19, B = 6, C = 19. Area = 1178
+950: It is Parallelepiped: density = 9, A = 19, B = 8, C = 17. Area = 1222
+951: It is Parallelepiped: density = 19, A = 15, B = 16, C = 12. Area = 1224
+952: It is Parallelepiped: density = 5, A = 18, B = 9, C = 17. Area = 1242
+953: It is Parallelepiped: density = 19, A = 20, B = 11, C = 13. Area = 1246
+954: It is Parallelepiped: density = 3, A = 10, B = 18, C = 16. Area = 1256
+955: It is Sphere: density = 7, radius = 20. Area = 1256.64
+956: It is Sphere: density = 16, radius = 20. Area = 1256.64
+957: It is Sphere: density = 20, radius = 20. Area = 1256.64
+958: It is Sphere: density = 5, radius = 20. Area = 1256.64
+959: It is Sphere: density = 13, radius = 20. Area = 1256.64
+960: It is Sphere: density = 16, radius = 20. Area = 1256.64
+961: It is Sphere: density = 17, radius = 20. Area = 1256.64
+962: It is Sphere: density = 20, radius = 20. Area = 1256.64
+963: It is Sphere: density = 6, radius = 20. Area = 1256.64
+964: It is Sphere: density = 14, radius = 20. Area = 1256.64
+965: It is Sphere: density = 8, radius = 20. Area = 1256.64
+966: It is Sphere: density = 14, radius = 20. Area = 1256.64
+967: It is Sphere: density = 20, radius = 20. Area = 1256.64
+968: It is Parallelepiped: density = 2, A = 12, B = 13, C = 19. Area = 1262
+969: It is Parallelepiped: density = 6, A = 19, B = 18, C = 8. Area = 1276
+970: It is Parallelepiped: density = 3, A = 17, B = 14, C = 13. Area = 1282
+971: It is Parallelepiped: density = 2, A = 15, B = 14, C = 15. Area = 1290
+972: It is Parallelepiped: density = 18, A = 20, B = 19, C = 7. Area = 1306
+973: It is Parallelepiped: density = 10, A = 16, B = 17, C = 12. Area = 1336
+974: It is Parallelepiped: density = 6, A = 19, B = 9, C = 18. Area = 1350
+975: It is Parallelepiped: density = 11, A = 9, B = 18, C = 19. Area = 1350
+976: It is Parallelepiped: density = 9, A = 16, B = 10, C = 20. Area = 1360
+977: It is Parallelepiped: density = 3, A = 10, B = 19, C = 17. Area = 1366
+978: It is Parallelepiped: density = 20, A = 11, B = 17, C = 18. Area = 1382
+979: It is Parallelepiped: density = 17, A = 19, B = 15, C = 12. Area = 1386
+980: It is Parallelepiped: density = 1, A = 20, B = 18, C = 9. Area = 1404
+981: It is Parallelepiped: density = 16, A = 14, B = 17, C = 15. Area = 1406
+982: It is Parallelepiped: density = 6, A = 12, B = 20, C = 15. Area = 1440
+983: It is Parallelepiped: density = 5, A = 14, B = 19, C = 14. Area = 1456
+984: It is Parallelepiped: density = 13, A = 19, B = 18, C = 11. Area = 1498
+985: It is Parallelepiped: density = 10, A = 12, B = 20, C = 16. Area = 1504
+986: It is Parallelepiped: density = 19, A = 12, B = 19, C = 17. Area = 1510
+987: It is Parallelepiped: density = 10, A = 18, B = 14, C = 16. Area = 1528
+988: It is Parallelepiped: density = 10, A = 17, B = 16, C = 15. Area = 1534
+989: It is Parallelepiped: density = 7, A = 19, B = 15, C = 15. Area = 1590
+990: It is Parallelepiped: density = 5, A = 19, B = 19, C = 12. Area = 1634
+991: It is Parallelepiped: density = 7, A = 19, B = 19, C = 12. Area = 1634
+992: It is Parallelepiped: density = 1, A = 13, B = 18, C = 19. Area = 1646
+993: It is Parallelepiped: density = 9, A = 16, B = 20, C = 18. Area = 1936
+994: It is Parallelepiped: density = 5, A = 18, B = 19, C = 17. Area = 1942
+995: It is Parallelepiped: density = 19, A = 20, B = 16, C = 20. Area = 2080
+996: It is Parallelepiped: density = 1, A = 17, B = 19, C = 20. Area = 2086
+997: It is Parallelepiped: density = 6, A = 18, B = 20, C = 18. Area = 2088
+998: It is Parallelepiped: density = 4, A = 20, B = 17, C = 20. Area = 2160
+999: It is Parallelepiped: density = 7, A = 20, B = 18, C = 19. Area = 2164
