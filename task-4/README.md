@@ -18,56 +18,57 @@
 # Метрики
 - Число интерфейсных модулей (.h) = 6
 - Число модулей реализации (.cpp) = 6
-- Размер исполняемго файла = 127.9kB
-- Общий размер исходных текстов = 18.8kB
+- .asm = 1
+- Размер исполняемго файла = 103.7kB
+- Общий размер исходных текстов = 20.5kB
 ### Время выполнения программы для различных тестовых наборов данных
 #### Test 01
 
-real    0m0.020s
+real	0m0.009s
 
-user    0m0.005s
+user	0m0.004s
 
-sys     0m0.008s
+sys	0m0.005s
 
 #### Test 02
 
-real    0m0.013s
+real	0m0.008s
 
-user    0m0.006s
+user	0m0.004s
 
-sys     0m0.005s
+sys	0m0.004s
 
 #### Test 03
 
-real    0m0.012s
+real	0m0.006s
 
-user    0m0.007s
+user	0m0.000s
 
-sys     0m0.003s
+sys	0m0.006s
 
 #### Test 04
 
-real    0m0.012s
+real	0m0.006s
 
-user    0m0.004s
+user	0m0.003s
 
-sys     0m0.005s
+sys	0m0.003s
 
 #### Test 05
 
-real    0m0.010s
+real	0m0.007s
 
-user    0m0.006s
+user	0m0.004s
 
-sys     0m0.004s
+sys	0m0.003s
 
 #### Test Random
 
-real    0m0.049s
+real	0m0.043s
 
-user    0m0.037s
+user	0m0.040s
 
-sys     0m0.010s
+sys	0m0.003s
 
 | Test | C       | C++      | Python      | asm      |
 | ---- | ------- | -------- | ----------- | -------- |
